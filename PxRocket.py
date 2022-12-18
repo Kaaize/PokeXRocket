@@ -3,6 +3,7 @@ import sys
 import os
 import json
 
+
 with open('crafts.json', 'r') as f:
     crafts = json.load(f)
 
