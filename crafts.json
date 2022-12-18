@@ -1,0 +1,4487 @@
+{
+    "diamond dust (20x)": {
+        "diamond": 1
+    },
+    "item finder e (10x)": {
+        "water pendant": 10,
+        "pot of lava": 5,
+        "rubber ball": 50,
+        "essence of fire": 50,
+        "water gem": 50,
+        "electric box": 8
+    },
+    "lockpick (2x)": {
+        "small stone": 30,
+        "earth ball": 30,
+        "screw": 20
+    },
+    "x-block (tier: 1)": {
+        "gold coin": 200
+    },
+    "workshop d": {
+        "diamond": 1
+    },
+    "workshop d (portatil)": {
+        "diamond": 1
+    },
+    "item finder d (10x)": {
+        "gold coin": 7,
+        "electric box": 5,
+        "magnet": 1,
+        "fire tail": 1,
+        "linearly guided hypnosis": 1,
+        "squirtle hull": 1,
+        "water pendant": 5,
+        "pot of lava": 5
+    },
+    "gold bar": {
+        "gold coin": 110
+    },
+    "hotdog costume": {
+        "hotdog": 1000,
+        "hamburger": 1000,
+        "cooking token": 175
+    },
+    "pile of rocks": {
+        "stone orb": 200,
+        "strange rock": 12,
+        "gold coin": 50
+    },
+    "x-block (tier: 2)": {
+        "gold bar": 10
+    },
+    "workshop c": {
+        "diamond": 4
+    },
+    "item finder c (10x)": {
+        "gold coin": 30,
+        "water pendant": 50,
+        "red scale": 2,
+        "squirtle hull": 3,
+        "hot fur": 3,
+        "fire tail": 2,
+        "pot of lava": 40,
+        "pinsir horn": 6,
+        "pot of moss bug": 45,
+        "insect claw": 2,
+        "bug gosme": 250
+    },
+    "unfinished articuno sculpture": {
+        "pile of rocks": 3,
+        "ice bra": 4,
+        "ice orb": 200,
+        "seal tail": 30,
+        "bird beak": 167
+    },
+    "unfinished moltres sculpture": {
+        "pile of rocks": 3,
+        "magma foot": 6,
+        "pot of lava": 250,
+        "fire tail": 34,
+        "bird beak": 167
+    },
+    "unfinished zapdos sculpture": {
+        "pile of rocks": 3,
+        "electric tail": 6,
+        "electric box": 250,
+        "electric rat tail": 30,
+        "bird beak": 167
+    },
+    "x-block (tier: 3)": {
+        "gold bar": 25
+    },
+    "workshop b": {
+        "diamonds": 15
+    },
+    "workshop b (portatil)": {
+        "diamonds": 15
+    },
+    "item finder b (10x)": {
+        "gold bar": 1,
+        "strange rock": 8,
+        "horn drill": 7,
+        "hot fur": 8,
+        "fire tail": 8,
+        "strange antenna": 8,
+        "linearly guided hypnosis": 3,
+        "electric box": 75,
+        "sheep wool": 8,
+        "pinsir horn": 20
+    },
+    "articuno sculpture": {
+        "unfinished articuno sculpture": 3,
+        "ice stone": 4,
+        "gold bar": 3
+    },
+    "moltres sculpture": {
+        "unfinished moltres sculpture": 3,
+        "fire stone": 4,
+        "gold bar": 3
+    },
+    "zapdos sculpture": {
+        "unfinished zapdos sculpture": 3,
+        "thunder stone": 4,
+        "gold bar": 3
+    },
+    "x-block (tier: 4)": {
+        "gold bar": 60
+    },
+    "super grill": {
+        "gold bar": 4,
+        "pikaburger": 3,
+        "hamburger": 750,
+        "cooking token": 250
+    },
+    "workshop a": {
+        "diamonds": 30
+    },
+    "workshop a (portatil)": {
+        "diamonds": 30
+    },
+    "item finder a (10x)": {
+        "gold bar": 2,
+        "metal jaw": 26,
+        "pawn": 25,
+        "black fin": 20,
+        "tech ball": 1,
+        "dog ear": 20,
+        "hyena tail": 20,
+        "mini wing": 1
+    },
+    "mystic lamp": {
+        "mystic fragment": 75,
+        "solid rock paw": 2,
+        "massive vines": 2,
+        "max volt paw": 2,
+        "blaze topknot": 2,
+        "scary smile": 2,
+        "mystic star": 2,
+        "mummy toy": 1,
+        "old book": 1,
+        "gold bar": 40
+    },
+    "gold coin (100x)": {
+        "high tech chip": 1
+    },
+    "chef costume": {
+        "roasted shiny magikarp": 1,
+        "grilled gyarados tail": 1,
+        "shoyu tentacles": 1,
+        "fried omanyte": 1,
+        "cooking token": 750
+    },
+    "bicycle": {
+        "metal stone": 2,
+        "mystic star": 3,
+        "mini wing": 30,
+        "scythe": 60,
+        "pinsir horn": 500,
+        "horse saddle": 1,
+        "bull red saddle": 2,
+        "bull black saddle": 2,
+        "pony saddle": 4,
+        "gold bar": 30
+    },
+    "power source": {
+        "gold bar": 40,
+        "greens": 100,
+        "zap": 10,
+        "tech ball": 4,
+        "mini volcano": 30,
+        "palm leaves": 32
+    },
+    "arceus sculpture": {
+        "scary smile": 2,
+        "strange tail": 25,
+        "golden animal statue": 1,
+        "mummy toy": 1,
+        "precious ring": 5,
+        "jewel case": 30,
+        "mystic star": 1,
+        "giant pearl": 100,
+        "gold bar": 50
+    },
+    "colored articuno sculpture": {
+        "articuno sculpture": 1,
+        "seavell urn": 1,
+        "beautiful scales": 10,
+        "blue dye": 50,
+        "gold bar": 20
+    },
+    "colored moltres sculpture": {
+        "moltres sculpture": 1,
+        "volcanic urn": 1,
+        "blaze topknot": 1,
+        "red dye": 50,
+        "gold bar": 20
+    },
+    "colored zapdos sculpture": {
+        "zapdos sculpture": 1,
+        "raibolt urn": 1,
+        "max volt paw": 1,
+        "yellow dye": 50,
+        "gold bar": 20
+    },
+    "x-block (tier: 5)": {
+        "gold bar": 200
+    },
+    "x-block (tier: 6)": {
+        "gold bar": 650
+    },
+    "mecha": {
+        "mecha chip": 1,
+        "mecha right arm": 1,
+        "mecha chest": 1,
+        "mecha left arm": 1,
+        "power source": 1
+    },
+    "poke ball (100x)": {
+        "apricorn": 1,
+        "screw": 80,
+        "rubber ball": 80,
+        "iron ore": 10
+    },
+    "glass": {
+        "sandbag": 2
+    },
+    "screw (80x)": {
+        "iron ore": 4
+    },
+    "viking helmet": {
+        "piece of diglett": 2,
+        "earth ball": 168,
+        "iron ore": 16
+    },
+    "frankenstein cap": {
+        "psyduck mug": 1,
+        "screw": 2,
+        "water pendant": 11,
+        "iron ore": 16
+    },
+    "flying glasses": {
+        "glass": 10,
+        "colored feather": 15,
+        "feather": 24,
+        "iron bar": 20
+    },
+    "dog collar": {
+        "giant piece of fur": 1,
+        "fur": 10,
+        "iron ore": 16
+    },
+    "game boy advanced": {
+        "screw": 4,
+        "iron ore": 1
+    },
+    "super nintendo": {
+        "screw": 20,
+        "iron ore": 1
+    },
+    "game boy color": {
+        "glass": 2,
+        "screw": 80,
+        "iron ore": 6
+    },
+    "nintendo 3ds": {
+        "glass": 4,
+        "screw": 160,
+        "iron ore": 12
+    },
+    "px portable": {
+        "glass": 10,
+        "screw": 250,
+        "iron ore": 27
+    },
+    "computer": {
+        "glass": 1,
+        "iron ore": 3,
+        "screw": 40
+    },
+    "analog television": {
+        "glass": 1,
+        "electric box": 1,
+        "iron ore": 3
+    },
+    "great ball (100x)": {
+        "apricorn": 1,
+        "water pendant": 20,
+        "stone orb": 10,
+        "screw": 250,
+        "water gem": 250,
+        "iron bar": 4
+    },
+    "iron bar": {
+        "iron ore": 10
+    },
+    "caterpie turret": {
+        "electronic scraps": 1
+    },
+    "tool box": {
+        "farfetch'd stick": 3,
+        "monkey paw": 5,
+        "stone orb": 9,
+        "iron bar": 10
+    },
+    "squad costume": {
+        "viking helmet": 1,
+        "ninja mask": 1,
+        "cowboy hat": 1,
+        "iron bar": 8
+    },
+    "roman helmet": {
+        "bat wing": 2,
+        "bottle of poison": 168,
+        "iron ore": 6,
+        "iron bar": 1
+    },
+    "true champion belt": {
+        "iron bracelet": 2,
+        "band aid": 24,
+        "iron ore": 6,
+        "iron bar": 1
+    },
+    "fake fork": {
+        "blue vines": 2,
+        "seed": 108,
+        "iron bar": 2
+    },
+    "playstation": {
+        "electric box": 1,
+        "iron bar": 2
+    },
+    "game cube": {
+        "screw": 32,
+        "electric box": 1,
+        "iron bar": 2
+    },
+    "psp": {
+        "glass": 20,
+        "sheep wool": 3,
+        "electric tail": 1,
+        "iron bar": 15
+    },
+    "smartphone": {
+        "glass": 20,
+        "screw": 250,
+        "piece of steel": 250,
+        "electric rat tail": 15,
+        "iron bar": 15
+    },
+    "white computer": {
+        "glass": 1,
+        "piece of steel": 100,
+        "electric box": 1,
+        "iron ore": 6
+    },
+    "black computer": {
+        "glass": 3,
+        "piece of steel": 6,
+        "strange thing": 1,
+        "iron ore": 6,
+        "iron bar": 1
+    },
+    "television": {
+        "glass": 1,
+        "electric box": 1,
+        "iron ore": 6,
+        "piece of steel": 92
+    },
+    "modern television": {
+        "glass": 2,
+        "sheep wool": 1,
+        "screw": 116,
+        "iron ore": 5,
+        "iron bar": 1
+    },
+    "elixir lab": {
+        "glass": 30,
+        "tooth": 85,
+        "lizard tail": 4,
+        "pot of moss bug": 200,
+        "iron bar": 30
+    },
+    "workshop c (portatil)": {
+        "diamond": 4
+    },
+    "super ball (100x)": {
+        "apricorn": 1,
+        "electric box": 65,
+        "screw": 250,
+        "enchanted gem": 250,
+        "iron bar": 12
+    },
+    "gear": {
+        "screw": 2000
+    },
+    "black dye": {
+        "dark gem": 100,
+        "black fins": 7
+    },
+    "blue dye": {
+        "water gem": 200,
+        "insect claw": 5
+    },
+    "red dye": {
+        "rubber ball": 100,
+        "lobster claw": 6
+    },
+    "pink dye": {
+        "sandbag": 8,
+        "topknot": 6
+    },
+    "green dye": {
+        "seed": 100,
+        "bulb": 7
+    },
+    "yellow dye": {
+        "straw": 200,
+        "armadillo claw": 6
+    },
+    "hourglass": {
+        "big enchanted gem": 10,
+        "glass": 2,
+        "iron bar": 4
+    },
+    "bellsprout turret": {
+        "electronic scraps": 3
+    },
+    "koffing turret": {
+        "electronic scraps": 7
+    },
+    "tv camera": {
+        "magnet": 2,
+        "electric box": 10,
+        "fur ball": 1,
+        "iron bar": 3,
+        "iron ore": 2
+    },
+    "singer microphone": {
+        "microphone": 8,
+        "rubber ball": 48,
+        "iron bar": 8
+    },
+    "metal claw": {
+        "armadillo claw": 8,
+        "earth ball": 48,
+        "iron bar": 8
+    },
+    "red glasses": {
+        "strange spike": 4,
+        "glass": 2,
+        "iron bar": 4
+    },
+    "pitbull collar": {
+        "crystal stone": 1,
+        "fire stone": 4,
+        "giant piece of fur": 67,
+        "fur": 77,
+        "metal hull": 35,
+        "iron bar": 600
+    },
+    "steel helmet": {
+        "strange rock": 3,
+        "stone orb": 8,
+        "iron bar": 4
+    },
+    "lunch pack": {
+        "psychic spoon": 10,
+        "tongue": 3,
+        "iron bar": 20
+    },
+    "xbox 360": {
+        "electric tail": 3,
+        "electronic scraps": 10,
+        "gift bag": 18,
+        "magnet": 11,
+        "iron bar": 40
+    },
+    "slim black computer": {
+        "strange tail": 5,
+        "screw": 20,
+        "gear": 2,
+        "glass": 3,
+        "iron bar": 20
+    },
+    "slim white computer": {
+        "piece of steel": 56,
+        "sheep wool": 6,
+        "gear": 2,
+        "magnet": 2,
+        "iron bar": 20
+    },
+    "notebook": {
+        "magnet": 8,
+        "glass": 5,
+        "strange thing": 5,
+        "electric rat tail": 2,
+        "iron bar": 13
+    },
+    "classic television": {
+        "shock topknot": 15,
+        "electric rat tail": 5,
+        "glass": 10,
+        "iron bar": 20
+    },
+    "lcd television": {
+        "glass": 2,
+        "screw": 100,
+        "piece of steel": 100,
+        "magnet": 3,
+        "iron ore": 5,
+        "iron bar": 3
+    },
+    "washing machine": {
+        "ice orb": 10,
+        "water pendant": 10,
+        "screw": 150,
+        "water gem": 200,
+        "iron bar": 4
+    },
+    "blue wall lamp": {
+        "magnet": 20,
+        "point of light": 5,
+        "electric rat tail": 4,
+        "glass": 30,
+        "blue dye": 4,
+        "iron bar": 60
+    },
+    "yellow wall lamp": {
+        "magnet": 20,
+        "point of light": 5,
+        "electric rat tail": 4,
+        "glass": 30,
+        "yellow dye": 4,
+        "iron bar": 60
+    },
+    "ultra ball (100x)": {
+        "apricorn": 1,
+        "scythe": 1,
+        "ice bra": 1,
+        "electric tail": 1,
+        "magma foot": 1,
+        "future orb": 25,
+        "screw": 250,
+        "dark gem": 250,
+        "piece of steel": 250,
+        "straw": 250,
+        "iron bar": 40
+    },
+    "tire": {
+        "streak tail": 50,
+        "black dye": 8,
+        "mini vulcano": 10,
+        "ice block": 30,
+        "iron bar": 200
+    },
+    "charmander turret": {
+        "electronic scraps": 12
+    },
+    "squirtle turret": {
+        "electronic scraps": 12
+    },
+    "digital clock": {
+        "glass": 50,
+        "magnet": 100,
+        "titanium imam": 1,
+        "zap": 5,
+        "electronic scraps": 100,
+        "iron bar": 200
+    },
+    "health check": {
+        "future orb": 200,
+        "mystic star": 1,
+        "rat tail": 30,
+        "bull tail": 30,
+        "snake tail": 30,
+        "bug antenna": 10,
+        "venom flute": 20,
+        "iron bar": 480
+    },
+    "advanced incubator": {
+        "topaz": 8,
+        "mirror stone": 2,
+        "dimensional stone": 2,
+        "iron bar": 750
+    },
+    "iron mask": {
+        "shock topknot": 400,
+        "metal stone": 1,
+        "mini vulcano": 10,
+        "pawn": 100,
+        "thunder stone": 1,
+        "iron bar": 840
+    },
+    "cyber mask": {
+        "giant bat wing": 300,
+        "ancient stone": 1,
+        "venom stone": 4,
+        "bat wing": 25,
+        "iron bar": 840
+    },
+    "green scouter": {
+        "leaf stone": 1,
+        "glass": 10,
+        "magma foot": 3,
+        "green dye": 4,
+        "iron bar": 80
+    },
+    "blue scouter": {
+        "water stone": 1,
+        "glass": 10,
+        "magma foot": 3,
+        "blue dye": 4,
+        "iron bar": 80
+    },
+    "thorn shoulder": {
+        "stone orb": 500,
+        "horn": 300,
+        "piece of steel": 400,
+        "small stone": 400,
+        "rock stone": 2,
+        "horn drill": 8,
+        "iron bar": 144
+    },
+    "slime brain cap": {
+        "ruby": 10,
+        "giant ruby": 5,
+        "fins": 2,
+        "scythe": 2,
+        "iron bar": 40
+    },
+    "bloody brain cap": {
+        "ruby": 20,
+        "red wing": 17,
+        "air tank": 2,
+        "iron bar": 40
+    },
+    "water brain cap": {
+        "giant ruby": 10,
+        "seahorse tail": 10,
+        "diving mask": 2,
+        "iron bar": 40
+    },
+    "gladiator helmet": {
+        "belt of champion": 16,
+        "samurai hair": 80,
+        "iron bar": 160
+    },
+    "playstation 4": {
+        "shock topknot": 15,
+        "psychic spoon": 28,
+        "gear": 1,
+        "electric rat tail": 8,
+        "iron bar": 60
+    },
+    "nintendo wii": {
+        "gear": 5,
+        "electric box": 50,
+        "karate duck": 10,
+        "red scale": 13,
+        "iron bar": 60
+    },
+    "macbook": {
+        "tech ball": 1,
+        "glass": 20,
+        "electric box": 20,
+        "electric tail": 1,
+        "gear": 2,
+        "iron bar": 60
+    },
+    "squirtle computer": {
+        "white computer": 1,
+        "squirtle hull": 23,
+        "squirtle toy": 1,
+        "water pendant": 34,
+        "blue dye": 5
+    },
+    "voltorb computer": {
+        "white computer": 1,
+        "empty poke ball": 500,
+        "voltorb toy": 1,
+        "electric box": 50,
+        "red dye": 5
+    },
+    "snorlax computer": {
+        "white computer": 1,
+        "bitten apple": 130,
+        "heart stone": 1,
+        "black dye": 4
+    },
+    "pikachu computer": {
+        "white computer": 1,
+        "electric rat tail": 23,
+        "electric box": 17,
+        "pikachu toy": 1,
+        "yellow dye": 5
+    },
+    "jigglypuff computer": {
+        "white computer": 1,
+        "jigglypuff toy": 1,
+        "microphone": 10,
+        "comb": 19,
+        "pink dye": 5
+    },
+    "charmander computer": {
+        "white computer": 1,
+        "fire tail": 23,
+        "charmander toy": 1,
+        "pot of lava": 19,
+        "pink dye": 1,
+        "red dye": 4
+    },
+    "bulbasaur computer": {
+        "white computer": 1,
+        "bulb": 23,
+        "leaves": 40,
+        "bulbasaur toy": 1,
+        "green dye": 5
+    },
+    "3d television": {
+        "gear": 3,
+        "glass": 33,
+        "electronic scraps": 25,
+        "zap": 2,
+        "thunder stone": 1,
+        "iron bar": 80
+    },
+    "clean refrigerator": {
+        "seal tail": 15,
+        "ice orb": 30,
+        "snowball": 1000,
+        "tusk": 6,
+        "iron bar": 32
+    },
+    "clean stove": {
+        "giant piece of fur": 5,
+        "fox tail": 2,
+        "eggshell": 2,
+        "iron bar": 32
+    },
+    "deluxe stove": {
+        "fire feather": 20,
+        "nu ball": 20,
+        "metal hull": 3,
+        "iron bar": 32
+    },
+    "jacks stove": {
+        "essence of fire": 1000,
+        "fire ear": 10,
+        "strange bone": 10,
+        "pot of lava": 64,
+        "iron bar": 32
+    },
+    "black/white stove": {
+        "fire horse foot": 5,
+        "pot of lava": 50,
+        "hot fur": 10,
+        "metal jaw": 9,
+        "iron bar": 32
+    },
+    "green glass table": {
+        "palm leaves": 5,
+        "big seed": 20,
+        "water plant": 16,
+        "glass": 20,
+        "iron bar": 60
+    },
+    "blue glass table": {
+        "gyarados tail": 7,
+        "mimic clothes": 5,
+        "dragon tail": 1,
+        "glass": 20,
+        "iron bar": 60
+    },
+    "kitchen sink": {
+        "water stone": 1,
+        "gyarados tail": 10,
+        "big crystal": 5,
+        "glass": 20,
+        "iron bar": 120
+    },
+    "locker": {
+        "electric box": 250,
+        "shock topknot": 200,
+        "empty ultra ball": 250,
+        "point of light": 5,
+        "linearly guided hypnosis": 100,
+        "iron bar": 750
+    },
+    "red wall lamp": {
+        "magnet": 20,
+        "point of light": 5,
+        "electric rat tail": 4,
+        "glass": 30,
+        "red dye": 4,
+        "iron bar": 60
+    },
+    "purple wall lamp": {
+        "magnet": 20,
+        "point of light": 5,
+        "electric rat tail": 4,
+        "glass": 30,
+        "red dye": 2,
+        "pink dye": 2,
+        "iron bar": 60
+    },
+    "green wall lamp": {
+        "magnet": 20,
+        "point of light": 5,
+        "electric rat tail": 4,
+        "glass": 30,
+        "green dye": 4,
+        "iron bar": 60
+    },
+    "fast ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "fire stone": 1,
+        "screw": 100,
+        "bull tail": 1
+    },
+    "heavy ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "rock stone": 1,
+        "metal hull": 1
+    },
+    "magu ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "earth stone": 1,
+        "screw": 100,
+        "earth ball": 100,
+        "essence of fire": 100
+    },
+    "sora ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "feather stone": 1,
+        "screw": 100,
+        "snowball": 100,
+        "straw": 100
+    },
+    "yume ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "heart stone": 1,
+        "screw": 100,
+        "rubber ball": 100,
+        "enchanted gem": 100
+    },
+    "dusk ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "punch stone": 1,
+        "screw": 100,
+        "small stone": 100,
+        "band aid": 100
+    },
+    "tale ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "enigma stone": 1,
+        "screw": 100,
+        "dragon scale": 100,
+        "rubber ball": 100
+    },
+    "moon ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "darkness stone": 1,
+        "screw": 100,
+        "dark gem": 100,
+        "ghost essence": 100
+    },
+    "net ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "cocoon stone": 1,
+        "screw": 100,
+        "bug gosme": 100,
+        "water gem": 100
+    },
+    "janguru ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "venom stone": 1,
+        "screw": 100,
+        "bottle of poison": 100,
+        "seed": 100
+    },
+    "tinker ball (100x)": {
+        "apricorn": 1,
+        "platinum ore": 35,
+        "thunder stone": 1,
+        "screw": 100,
+        "piece of steel": 100
+    },
+    "old ball (100x)": {
+        "dome fossil": 1,
+        "helix fossil": 1,
+        "platinum ore": 100
+    },
+    "platinum bar": {
+        "platinum ore": 100
+    },
+    "platinum ore (100x)": {
+        "high tech chip": 1
+    },
+    "engine": {
+        "electronic scraps": 250,
+        "titanium imam": 8,
+        "magnet": 500,
+        "electric tail": 25,
+        "piece of shell": 20,
+        "onix tail": 35,
+        "fire tail": 250,
+        "metal stone": 8,
+        "screw": 250,
+        "platinum bar": 40
+    },
+    "advanced engine": {
+        "electronic scraps": 250,
+        "titanium imam": 10,
+        "zap": 52,
+        "tech ball": 20,
+        "blaze topknot": 1,
+        "max volt paw": 1,
+        "solid rock paw": 1,
+        "wooper horn": 250,
+        "boost stone": 2,
+        "metal stone": 5,
+        "screw": 250,
+        "platinum bar": 70
+    },
+    "pikachu turret": {
+        "electronic scraps": 25
+    },
+    "bulbasaur turret": {
+        "electronic scraps": 25
+    },
+    "boss detector": {
+        "solid rock paw": 1,
+        "massive vines": 1,
+        "max volt paw": 1,
+        "blaze topknot": 1,
+        "scary smile": 1,
+        "mystic star": 2,
+        "platinum bar": 40
+    },
+    "duelist radar": {
+        "mystic star": 4,
+        "martial arts scroll": 500,
+        "spin machine": 20,
+        "kick machine": 20,
+        "punch machine": 20,
+        "platinum bar": 20
+    },
+    "treadmill": {
+        "gear": 50,
+        "screw": 250,
+        "tire": 1,
+        "pony saddle": 1,
+        "horse saddle": 1,
+        "fins": 20,
+        "snow skis": 20,
+        "bull tail": 35,
+        "giant piece of fur": 50,
+        "scythe": 25,
+        "platinum bar": 12
+    },
+    "fake pok\u00e9 ball kit": {
+        "empty magu ball": 5,
+        "empty sora ball": 5,
+        "empty yume ball": 5,
+        "empty dusk ball": 5,
+        "empty fast ball": 5,
+        "empty heavy ball": 5,
+        "empty tale ball": 5,
+        "empty moon ball": 5,
+        "empty net ball": 5,
+        "empty janguru ball": 5,
+        "empty ultra ball": 5,
+        "empty tinker ball": 5
+    },
+    "heavy thorn ball": {
+        "metal stone": 1,
+        "ancient stone": 1,
+        "strange rock": 50,
+        "horn drill": 50,
+        "steelix tail": 5,
+        "platinum bar": 8,
+        "platinum ore": 40
+    },
+    "royal armor": {
+        "metal hull": 300,
+        "metal stone": 2,
+        "black hull": 50,
+        "luck medallion": 5,
+        "platinum bar": 12
+    },
+    "metal pack": {
+        "max volt paw": 1,
+        "titanium imam": 2,
+        "electric tail": 30,
+        "metal jaw": 129,
+        "platinum bar": 12
+    },
+    "titan mask": {
+        "data ufo": 4,
+        "metal stone": 1,
+        "zap": 30,
+        "shock topknot": 100,
+        "thunder stone": 4,
+        "titanium imam": 2,
+        "platinum bar": 12
+    },
+    "titanium armor": {
+        "red scale": 500,
+        "gem star": 20,
+        "giant fin": 20,
+        "diving mask": 5,
+        "fins": 5,
+        "air tank": 5,
+        "water stone": 20,
+        "platinum bar": 12
+    },
+    "3d rift videogame": {
+        "zap": 3,
+        "electronic scraps": 25,
+        "blue scouter": 1,
+        "platinum bar": 1,
+        "platinum ore": 60
+    },
+    "blue alienware": {
+        "tech ball": 2,
+        "blue dye": 5,
+        "blue ball": 17,
+        "glass": 17,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "green alienware": {
+        "tech ball": 2,
+        "green dye": 5,
+        "greens": 19,
+        "glass": 17,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "red alienware": {
+        "tech ball": 2,
+        "red dye": 5,
+        "fire ear": 18,
+        "glass": 19,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "holographic notebook": {
+        "glass": 20,
+        "tech ball": 2,
+        "female ear": 45,
+        "male ear": 44,
+        "electronic scraps": 10,
+        "platinum bar": 1,
+        "platinum ore": 60
+    },
+    "virtual tv": {
+        "electronic scraps": 50,
+        "tech ball": 2,
+        "titanium imam": 1,
+        "magnet": 20,
+        "steelix tail": 3,
+        "screw": 250,
+        "platinum bar": 2
+    },
+    "hd cine tv": {
+        "virtual tv": 1,
+        "3d television": 2,
+        "tech ball": 6,
+        "platinum bar": 8
+    },
+    "hd home tv": {
+        "virtual tv": 1,
+        "3d television": 2,
+        "zap": 20,
+        "electric box": 500,
+        "platinum bar": 8
+    },
+    "hd tron tv": {
+        "virtual tv": 1,
+        "3d television": 2,
+        "titanium imam": 2,
+        "lcd television": 7,
+        "platinum bar": 8
+    },
+    "tron toaster": {
+        "piece of steel": 200,
+        "essence of fire": 200,
+        "screw": 200,
+        "electric box": 15,
+        "platinum ore": 4
+    },
+    "tron stove": {
+        "tech ball": 1,
+        "magma foot": 5,
+        "fire tail": 15,
+        "platinum ore": 80
+    },
+    "tron refrigerator": {
+        "ice bra": 5,
+        "locksmith of shell": 5,
+        "tech ball": 1,
+        "strange spike": 14,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "blue microscope": {
+        "tech ball": 1,
+        "blue dye": 3,
+        "zap": 5,
+        "dragon tail": 11,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "green microscope": {
+        "tech ball": 1,
+        "green dye": 3,
+        "palm leaves": 8,
+        "sharp leaves": 30,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "red microscope": {
+        "tech ball": 1,
+        "red dye": 3,
+        "lobster claw": 33,
+        "creepy eye": 5,
+        "platinum bar": 1,
+        "platinum ore": 20
+    },
+    "blue globe": {
+        "glass": 100,
+        "big crystal": 10,
+        "tech ball": 4,
+        "zap": 15,
+        "water stone": 1,
+        "ice stone": 1,
+        "dragon tail": 5,
+        "platinum bar": 4
+    },
+    "green globe": {
+        "glass": 100,
+        "big crystal": 10,
+        "sand tail": 200,
+        "helicopter leave": 30,
+        "brush": 30,
+        "greens": 85,
+        "leaf stone": 1,
+        "platinum bar": 4
+    },
+    "red globe": {
+        "glass": 100,
+        "big crystal": 10,
+        "fire stone": 1,
+        "mini wings": 5,
+        "great petal": 200,
+        "platinum bar": 4
+    },
+    "white locker": {
+        "locker": 1,
+        "electronic scraps": 250,
+        "gear": 10,
+        "big crystal": 40,
+        "ice orb": 500,
+        "seal tail": 200,
+        "wingeon tapestry": 2,
+        "crystal stone": 1,
+        "platinum bar": 24
+    },
+    "tron locker": {
+        "locker": 1,
+        "electronic scraps": 250,
+        "gear": 20,
+        "tron stove": 1,
+        "tron toaster": 2,
+        "titanium imam": 2,
+        "tech ball": 10,
+        "metal stone": 1,
+        "platinum bar": 24
+    },
+    "classic locker": {
+        "locker": 1,
+        "electronic scraps": 250,
+        "gear": 10,
+        "classic furniture": 1,
+        "classic dresser": 1,
+        "classic bookcase": 1,
+        "nu ball": 200,
+        "sand tail": 250,
+        "ancient stone": 1,
+        "platinum bar": 24
+    },
+    "black motorcycle": {
+        "engine": 1,
+        "tire": 2,
+        "black dye": 100,
+        "orebound urn": 1,
+        "malefic urn": 1,
+        "rock stone": 10,
+        "darkness stone": 10
+    },
+    "blue motorcycle": {
+        "engine": 1,
+        "tire": 2,
+        "blue dye": 100,
+        "seavell urn": 2,
+        "ice stone": 10,
+        "water stone": 10
+    },
+    "green motorcycle": {
+        "engine": 1,
+        "tire": 2,
+        "green dye": 100,
+        "naturia urn": 2,
+        "cocoon stone": 10,
+        "leaf stone": 10
+    },
+    "yellow motorcycle": {
+        "engine": 1,
+        "tire": 2,
+        "yellow dye": 100,
+        "raibolt urn": 2,
+        "thunder stone": 10,
+        "enigma stone": 10
+    },
+    "red motorcycle": {
+        "engine": 1,
+        "tire": 2,
+        "red dye": 100,
+        "volcanic urn": 1,
+        "wingeon urn": 1,
+        "crystal stone": 1,
+        "fire stone": 10
+    },
+    "pink motorcycle": {
+        "engine": 1,
+        "tire": 2,
+        "pink dye": 100,
+        "gardestrike urn": 1,
+        "psycraft urn": 1,
+        "heart stone": 10,
+        "feather stone": 10
+    },
+    "future motorcycle": {
+        "advanced engine": 1,
+        "dark moon": 50,
+        "steel wing": 500,
+        "metal stone": 3,
+        "ancient stone": 3
+    },
+    "mecha right arm": {
+        "mimic clothes": 15,
+        "titanium imam": 2,
+        "metal hull": 100,
+        "big hands": 50,
+        "platinum bar": 4
+    },
+    "mecha left arm": {
+        "mimic clothes": 15,
+        "titanium imam": 2,
+        "metal hull": 100,
+        "big hands": 50,
+        "platinum bar": 4
+    },
+    "mecha chest": {
+        "metal jaw": 200,
+        "bone shield": 2,
+        "pawn": 200,
+        "gem star": 30,
+        "metal stone": 1,
+        "platinum bar": 12
+    },
+    "cloth": {
+        "wool ball": 1
+    },
+    "xp plank": {
+        "earth ball": 50,
+        "log": 25
+    },
+    "wooden chair (5x)": {
+        "straw": 10,
+        "log": 5
+    },
+    "oak table (2x)": {
+        "straw": 12,
+        "log": 4
+    },
+    "locker (armario)": {
+        "straw": 14,
+        "log": 5
+    },
+    "dresser (2x)": {
+        "straw": 12,
+        "log": 4
+    },
+    "hippie male outfit": {
+        "cloth": 6,
+        "squirrel tail": 5,
+        "red wing": 10,
+        "comb": 8,
+        "style point": 1000
+    },
+    "hippie female outfit": {
+        "cloth": 6,
+        "squirrel tail": 5,
+        "blue vines": 10,
+        "strange flower": 7,
+        "style point": 1000
+    },
+    "cook male outfit": {
+        "pizza": 3,
+        "sushi": 80,
+        "fake fork": 1,
+        "bear paw": 3,
+        "style point": 1000
+    },
+    "school girl outfit": {
+        "comb": 7,
+        "cute ball": 20,
+        "cloth": 3,
+        "red scarf": 1,
+        "pink bow": 1,
+        "style point": 1000
+    },
+    "air tank": {
+        "straw": 200,
+        "rubber ball": 200,
+        "feather": 10,
+        "bat wing": 2,
+        "log": 200,
+        "style point": 200
+    },
+    "fins": {
+        "water gem": 200,
+        "magikarp fin": 100,
+        "log": 200,
+        "style point": 200
+    },
+    "diving mask": {
+        "water gem": 200,
+        "ruby": 2,
+        "water pendant": 10,
+        "log": 200,
+        "style point": 200
+    },
+    "snow ski": {
+        "ice orb": 3,
+        "tooth": 14,
+        "pot of moss bug": 25,
+        "log": 200,
+        "style point": 200
+    },
+    "ski poles": {
+        "stone orb": 18,
+        "screw": 200,
+        "log": 200,
+        "style point": 200
+    },
+    "goggles": {
+        "sandbag": 10,
+        "bag of pollem": 2,
+        "bird beak": 5,
+        "log": 200,
+        "style point": 200
+    },
+    "red cap": {
+        "bulb": 2,
+        "seed": 72,
+        "style point": 200
+    },
+    "ninja mask": {
+        "earth ball": 82,
+        "piece of diglett": 3,
+        "style point": 200
+    },
+    "bandit scarf": {
+        "squirtle hull": 2,
+        "water gem": 72,
+        "style point": 200
+    },
+    "green beret": {
+        "butterfly wing": 4,
+        "bug gosme": 72,
+        "style point": 200
+    },
+    "rambo band": {
+        "pot of moss bug": 40,
+        "style point": 200
+    },
+    "purple band": {
+        "pot of moss bug": 30,
+        "bug gosme": 150,
+        "style point": 200
+    },
+    "yellow scarf": {
+        "feather": 25,
+        "red wing": 1,
+        "style point": 200
+    },
+    "red scarf": {
+        "red wing": 3,
+        "style point": 200
+    },
+    "captain hat": {
+        "bag of pollen": 8,
+        "style point": 200
+    },
+    "fantasy hat": {
+        "feather": 20,
+        "straw": 300,
+        "style point": 200
+    },
+    "bone cap": {
+        "feather": 25,
+        "bone": 1,
+        "style point": 200
+    },
+    "zombie cap": {
+        "colored feather": 2,
+        "style point": 200
+    },
+    "shower cap": {
+        "bitten apple": 23,
+        "rubber ball": 300,
+        "style point": 200
+    },
+    "green scarf": {
+        "colored feather": 9,
+        "greens": 12,
+        "refined style point": 20
+    },
+    "pink bow": {
+        "snake tail": 4,
+        "style point": 200
+    },
+    "yellow bow": {
+        "mushroom": 3,
+        "style point": 200
+    },
+    "ghost costume": {
+        "blue vines": 5,
+        "traces of ghost": 3,
+        "ghost essence": 100,
+        "style point": 800
+    },
+    "orange scarf": {
+        "electric rat tail": 2,
+        "screw": 62,
+        "style point": 200
+    },
+    "blue scarf": {
+        "colored feather": 9,
+        "female ear": 10,
+        "refined style point": 20
+    },
+    "skull cap": {
+        "sandbag": 12,
+        "bone": 1,
+        "style point": 200
+    },
+    "old man glasses": {
+        "sandbag": 12,
+        "bone": 1,
+        "style point": 400
+    },
+    "red stripe": {
+        "female ear": 7,
+        "bottle of poison": 300,
+        "style point": 800
+    },
+    "freddy krueger costume": {
+        "nail": 20,
+        "luck medallion": 1,
+        "style point": 800
+    },
+    "magic kit": {
+        "future orb": 8,
+        "psychic spoon": 1,
+        "style point": 200
+    },
+    "wrestling mask": {
+        "small shell": 20,
+        "piece of coral": 30,
+        "tusk": 150,
+        "belt of champion": 25,
+        "refined style point": 400
+    },
+    "disguise": {
+        "plant tail": 3,
+        "style point": 200
+    },
+    "kid cap": {
+        "helicopter leave": 2,
+        "strange rock": 1,
+        "style point": 200
+    },
+    "kiss makeup": {
+        "bone": 3,
+        "tongue": 2,
+        "style point": 800
+    },
+    "pipe": {
+        "venom flute": 4,
+        "style point": 200
+    },
+    "jester hat": {
+        "cute ball": 20,
+        "springs": 2,
+        "refined style point": 8
+    },
+    "white bed": {
+        "cloth": 2,
+        "straw": 200,
+        "log": 200
+    },
+    "pink tapestry": {
+        "white tapestry": 1,
+        "purple tapestry": 1,
+        "future orb": 3,
+        "style point": 40
+    },
+    "dark purple tapestry": {
+        "blue tapestry": 1,
+        "purple tapestry": 1,
+        "ghost essence": 100,
+        "style point": 40
+    },
+    "planks": {
+        "log": 100
+    },
+    "refined style point": {
+        "style point": 100
+    },
+    "lesser xp banner": {
+        "tissue": 15,
+        "refined style point": 1
+    },
+    "dragon tamer outfit": {
+        "cloth": 10,
+        "dragon tooth": 13,
+        "dragon tail": 10,
+        "sand tail": 50,
+        "mini wing": 3,
+        "refined style point": 200
+    },
+    "grandma outfit": {
+        "cloth": 10,
+        "pumpkin head": 1,
+        "ghost costume": 2,
+        "zombie cap": 4,
+        "future orb": 100,
+        "traces of ghost": 50,
+        "miss trace": 25,
+        "refined style point": 200
+    },
+    "karate outfit": {
+        "cloth": 10,
+        "wrestling mask": 1,
+        "green belt karate kimono": 1,
+        "onix tail": 30,
+        "steelix tail": 4,
+        "big hands": 20,
+        "refined style point": 200
+    },
+    "karate master outfit": {
+        "cloth": 10,
+        "wrestling mask": 1,
+        "yellow belt karate kimono": 1,
+        "belt of champion": 7,
+        "iron bracelet": 10,
+        "martial arts scroll": 80,
+        "refined style point": 200
+    },
+    "street female outfit": {
+        "cloth": 10,
+        "bandit scarf": 10,
+        "blue ball": 20,
+        "ice bra": 8,
+        "gyarados tail": 10,
+        "greens": 40,
+        "refined style point": 200
+    },
+    "purple stripe": {
+        "earth ball": 500,
+        "bottle of poison": 500,
+        "refined style point": 8
+    },
+    "clown nose": {
+        "piece of diglett": 5,
+        "topknot": 2,
+        "comb": 5,
+        "refined style point": 8
+    },
+    "red karate headband": {
+        "karate duck": 2,
+        "essence of fire": 100,
+        "refined style point": 2
+    },
+    "yellow karate headband": {
+        "karate duck": 2,
+        "straw": 100,
+        "refined style point": 2
+    },
+    "black karate headband": {
+        "karate duck": 2,
+        "dark gem": 100,
+        "refined style point": 2
+    },
+    "splinter kimono": {
+        "heart stone": 1,
+        "rat tail": 20,
+        "electric rat tail": 30,
+        "refined style point": 80
+    },
+    "clown mask": {
+        "seal tail": 2,
+        "refined style point": 2
+    },
+    "ash ketchum cap": {
+        "electric rat tail": 12,
+        "cloth": 10,
+        "cute ball": 16,
+        "refined style point": 20
+    },
+    "angel halo": {
+        "fur ball": 20,
+        "topknot": 28,
+        "comb": 30,
+        "cure flower": 20,
+        "refined style point": 80
+    },
+    "ice cream": {
+        "microphone": 7,
+        "eevee cream": 500,
+        "comb": 5,
+        "refined style point": 20
+    },
+    "suicide bomber costume": {
+        "strange rock": 200,
+        "hot fur": 100,
+        "stone orb": 500,
+        "fire stone": 1,
+        "refined style point": 400
+    },
+    "yellow belt karate kimono": {
+        "belt of champion": 2,
+        "strange thing": 7,
+        "refined style point": 20
+    },
+    "green belt karate kimono": {
+        "big hands": 10,
+        "strange thing": 7,
+        "refined style point": 20
+    },
+    "black belt karate kimono": {
+        "strange thing": 40,
+        "iron bracelet": 20,
+        "monkey paw": 30,
+        "water stone": 2,
+        "punch stone": 2,
+        "refined style point": 200
+    },
+    "dragon karate kimono": {
+        "strange thing": 40,
+        "dragon tooth": 10,
+        "water stone": 2,
+        "punch stone": 2,
+        "refined style point": 200
+    },
+    "pimp hat": {
+        "farfetch'd stick": 8,
+        "cloth": 9,
+        "refined style point": 20
+    },
+    "pumpkin head": {
+        "ghost skull": 15,
+        "sandbag": 100,
+        "refined style point": 20
+    },
+    "pumpkin pack": {
+        "ghost skull": 40,
+        "creepy eye": 2,
+        "bone": 50,
+        "refined style point": 80
+    },
+    "reaper costume": {
+        "creepy eye": 20,
+        "tribe mark": 250,
+        "dark moon": 5,
+        "refined style point": 400
+    },
+    "nurse costume": {
+        "mediling": 14,
+        "cure flower": 10,
+        "refined style point": 20
+    },
+    "witch costume": {
+        "ice bra": 70,
+        "ski poles": 10,
+        "snow skis": 10,
+        "goggles": 10,
+        "dark beak": 40,
+        "small tail": 30,
+        "black hull": 20,
+        "big crystal": 30,
+        "black fins": 100,
+        "ice blocks": 200,
+        "refined fashion point": 12
+    },
+    "black cape": {
+        "belt of champion": 3,
+        "black dye": 3,
+        "kick machine": 45,
+        "refined style point": 80
+    },
+    "red taek headband": {
+        "kick machine": 10,
+        "band aid": 1000,
+        "martial arts scroll": 40,
+        "red dye": 3,
+        "refined style point": 80
+    },
+    "blue taek headband": {
+        "kick machine": 10,
+        "band aid": 1000,
+        "martial arts scroll": 40,
+        "blue dye": 3,
+        "refined style point": 80
+    },
+    "red headband": {
+        "punch machine": 10,
+        "band aid": 1000,
+        "martial arts scroll": 40,
+        "red dye": 3,
+        "refined style point": 80
+    },
+    "white headband": {
+        "punch machine": 30,
+        "band aid": 1000,
+        "martial arts scroll": 40,
+        "refined style point": 80
+    },
+    "rustic chair": {
+        "straw": 60,
+        "log": 20
+    },
+    "strong wooden table": {
+        "straw": 100,
+        "oak table": 1,
+        "log": 40
+    },
+    "jungle balcony": {
+        "leaves": 5,
+        "bag of pollen": 1,
+        "wooden balcony": 1,
+        "log": 60
+    },
+    "green bed": {
+        "white bed": 1,
+        "green tapestry": 1,
+        "planks": 4
+    },
+    "blue bed": {
+        "white bed": 1,
+        "blue tapestry": 1,
+        "planks": 4
+    },
+    "purple bed": {
+        "white bed": 1,
+        "purple tapestry": 1,
+        "planks": 4
+    },
+    "ping pong table": {
+        "blue ball": 6,
+        "planks": 6
+    },
+    "bellossom big figure": {
+        "strange flower": 2,
+        "leaves": 10,
+        "planks": 2
+    },
+    "rhyhorn big figure": {
+        "horn drill": 1,
+        "horn": 5,
+        "planks": 2
+    },
+    "sandshrew big figure": {
+        "armadillo claw": 2,
+        "planks": 2
+    },
+    "mist tapestry": {
+        "dark purple tapestry": 1,
+        "blue ball": 1,
+        "water gem": 100,
+        "refined style point": 2
+    },
+    "salmon tapestry": {
+        "pink tapestry": 1,
+        "dark purple tapestry": 1,
+        "magikarp fin": 30,
+        "refined style point": 2
+    },
+    "chameleon tapestry": {
+        "white tapestry": 1,
+        "fire tail": 2,
+        "pot of lava": 2,
+        "refined style point": 2
+    },
+    "silk": {
+        "cloth": 4,
+        "spider leg": 1,
+        "bug venom": 1,
+        "big bug gosme": 1
+    },
+    "average xp banner": {
+        "pink tissue": 6,
+        "refined style point": 4
+    },
+    "pikachu female outfit": {
+        "ash ketchum cap": 1,
+        "jester hat": 1,
+        "electric rat tail": 400,
+        "silk": 3,
+        "thunder stone": 6,
+        "refined style point": 600
+    },
+    "azumarill female outfit": {
+        "blue ball": 30,
+        "cute ball": 200,
+        "cow tail": 200,
+        "water pendant": 500,
+        "fur balls": 200,
+        "water stone": 2,
+        "refined style point": 600
+    },
+    "meowth female outfit": {
+        "luck medallion": 5,
+        "wool ball": 100,
+        "cat ear": 20,
+        "tribe mark": 200,
+        "cow tail": 200,
+        "heart stone": 4,
+        "refined style point": 600
+    },
+    "venusaur male outfit": {
+        "red cap": 10,
+        "bag of pollen": 200,
+        "bulb": 200,
+        "poisonous tail": 250,
+        "leaf stone": 1,
+        "venom stone": 1,
+        "refined style point": 600
+    },
+    "blastoise male outfit": {
+        "water pendant": 500,
+        "squirtle hull": 200,
+        "seahorse tail": 25,
+        "red scale": 200,
+        "water stone": 4,
+        "refined style point": 600
+    },
+    "charizard male outfit": {
+        "ninja mask": 10,
+        "pot of lava": 250,
+        "dragon tooth": 20,
+        "fire feather": 200,
+        "fire stone": 1,
+        "feather stone": 1,
+        "refined style point": 600
+    },
+    "red cape": {
+        "stone orb": 65,
+        "small stone": 100,
+        "water gem": 100,
+        "refined style point": 8
+    },
+    "party cap": {
+        "stone orb": 15,
+        "small stone": 50,
+        "water gem": 50,
+        "refined style point": 2
+    },
+    "star glasses": {
+        "omanyte toy": 1,
+        "refined style point": 8
+    },
+    "dragon tattoo": {
+        "belt of champion": 3,
+        "big hands": 10,
+        "samurai hair": 20,
+        "mini wings": 1,
+        "dragon tail": 4,
+        "refined style point": 80
+    },
+    "purple bandana": {
+        "traces of ghost": 6,
+        "miss trace": 7,
+        "refined style point": 20
+    },
+    "black bandana": {
+        "traces of ghost": 6,
+        "doll star": 20,
+        "refined style point": 20
+    },
+    "green bandana": {
+        "traces of ghost": 6,
+        "ghost skull": 20,
+        "refined style point": 20
+    },
+    "dj cap": {
+        "sticky hand": 7,
+        "gosme": 5,
+        "refined style point": 8
+    },
+    "green apron": {
+        "mimic clothes": 6,
+        "future orb": 20,
+        "refined style point": 20
+    },
+    "bandit mask": {
+        "electric tail": 2,
+        "cloth": 15,
+        "refined style point": 20
+    },
+    "red stripes": {
+        "horn drill": 6,
+        "horn": 8,
+        "refined style point": 8
+    },
+    "pearl necklace": {
+        "giant fin": 10,
+        "ski poles": 1,
+        "water pendant": 20,
+        "refined style point": 20
+    },
+    "pink shell": {
+        "eggshell": 1,
+        "water gem": 400,
+        "refined style point": 8
+    },
+    "yellow shell": {
+        "eggshell": 1,
+        "snowball": 400,
+        "refined style point": 8
+    },
+    "dark pendant": {
+        "giant fin": 6,
+        "snow skis": 1,
+        "goggles": 1,
+        "refined style point": 20
+    },
+    "bear cap": {
+        "bear paw": 20,
+        "strange ball": 20,
+        "pawn": 40,
+        "eruption ears": 30,
+        "refined style point": 80
+    },
+    "polar bear cap": {
+        "bear paw": 20,
+        "ice blocks": 10,
+        "seal mustache": 50,
+        "ice orb": 12,
+        "refined style point": 80
+    },
+    "yellow ribbon": {
+        "pinsir horn": 2,
+        "pot of moss bug": 14,
+        "refined style point": 2
+    },
+    "purple scarf": {
+        "colored feather": 9,
+        "male ear": 10,
+        "refined style point": 20
+    },
+    "red dragon scarf": {
+        "crimson feather": 20,
+        "cloud": 20,
+        "dragon tooth": 2,
+        "mini wings": 2,
+        "refined style point": 80
+    },
+    "green dragon scarf": {
+        "crimson feather": 20,
+        "cloud": 20,
+        "dragon tooth": 2,
+        "sand tail": 45,
+        "refined style point": 80
+    },
+    "yellow dragon scarf": {
+        "crimson feather": 20,
+        "cloud": 20,
+        "dragon tooth": 2,
+        "dragon tail": 14,
+        "refined style point": 80
+    },
+    "red postman bag": {
+        "cloth": 30,
+        "dragon scale": 1000,
+        "red dye": 3,
+        "mini wings": 2,
+        "refined style point": 80
+    },
+    "blue postman bag": {
+        "cloth": 30,
+        "dragon scale": 1000,
+        "blue dye": 3,
+        "seahorse tail": 32,
+        "refined style point": 80
+    },
+    "gray postman bag": {
+        "cloth": 30,
+        "dragon scale": 1000,
+        "black dye": 3,
+        "cloud": 50,
+        "refined style point": 80
+    },
+    "wooden pok\u00e9 ball table": {
+        "wooden table": 1,
+        "farfetch'd stick": 1,
+        "feather": 100,
+        "planks": 8
+    },
+    "grey pok\u00e9 ball table": {
+        "white table": 1,
+        "empty pok\u00e9 ball": 250,
+        "planks": 8
+    },
+    "pok\u00e9 ball table": {
+        "white table": 1,
+        "empty pok\u00e9 ball": 100,
+        "empty great ball": 25,
+        "empty super ball": 10,
+        "empty ultra ball": 4,
+        "planks": 10
+    },
+    "bubble bed": {
+        "white bed": 1,
+        "tentacle": 5,
+        "water stone": 1,
+        "planks": 40
+    },
+    "thunder bed": {
+        "white bed": 1,
+        "raibolt tapestry": 1,
+        "planks": 40
+    },
+    "flame bed": {
+        "white bed": 1,
+        "volcanic tapestry": 1,
+        "planks": 40
+    },
+    "psychic bed": {
+        "white bed": 1,
+        "psycraft tapestry": 1,
+        "planks": 40
+    },
+    "rock bed": {
+        "white bed": 1,
+        "orebound tapestry": 1,
+        "planks": 40
+    },
+    "sea bed": {
+        "white bed": 1,
+        "seavell tapestry": 1,
+        "planks": 40
+    },
+    "black/white bed": {
+        "white bed": 1,
+        "malefic tapestry": 1,
+        "planks": 40
+    },
+    "pok\u00e9 ball bed": {
+        "white bed": 1,
+        "gardestrike tapestry": 1,
+        "planks": 40
+    },
+    "snooker table": {
+        "blue ball": 4,
+        "cow tail": 2,
+        "strange ball": 4,
+        "cute ball": 4,
+        "wool ball": 4,
+        "planks": 16
+    },
+    "red snooker table": {
+        "snooker table": 1,
+        "red dye": 4,
+        "planks": 40
+    },
+    "snorlax big figure": {
+        "heart stone": 1,
+        "bitten apple": 200,
+        "planks": 40
+    },
+    "growlithe big figure": {
+        "giant piece of fur": 10,
+        "fur": 100,
+        "planks": 20
+    },
+    "houndour big figure": {
+        "strange bone": 7,
+        "pot of lava": 100,
+        "planks": 20
+    },
+    "psyduck big figure": {
+        "water pendant": 200,
+        "psyduck mug": 5,
+        "planks": 20
+    },
+    "sunflora big figure": {
+        "helicopter leave": 10,
+        "leaves": 220,
+        "planks": 20
+    },
+    "unpacked unown toy": {
+        "strange tail": 1,
+        "future orb": 20,
+        "pawn": 2,
+        "linearly guided hypnosis": 1,
+        "refined style point": 8
+    },
+    "master tapestry": {
+        "silk": 1,
+        "white tapestry": 1,
+        "empty ultra ball": 15,
+        "blue dye": 3,
+        "refined style point": 40
+    },
+    "red master tapestry": {
+        "silk": 1,
+        "white tapestry": 1,
+        "empty ultra ball": 15,
+        "red dye": 3,
+        "refined style point": 40
+    },
+    "misdreavus tapestry": {
+        "silk": 1,
+        "white tapestry": 1,
+        "blue dye": 1,
+        "miss traces": 3,
+        "refined style point": 20
+    },
+    "dragonite tapestry": {
+        "silk": 1,
+        "white tapestry": 1,
+        "black dye": 1,
+        "dragon tail": 2,
+        "refined style point": 20
+    },
+    "golem tapestry": {
+        "silk": 1,
+        "white tapestry": 1,
+        "black dye": 1,
+        "strange rock": 6,
+        "refined style point": 20
+    },
+    "leather": {
+        "dog ear": 12,
+        "springs": 17,
+        "cow tail": 12,
+        "elephant foot": 12,
+        "streak tail": 12
+    },
+    "refined fashion point": {
+        "fashion point": 100
+    },
+    "greater xp banner": {
+        "green tissue": 6,
+        "refined style point": 20
+    },
+    "toy factory": {
+        "treadmill": 1,
+        "oak log": 1000
+    },
+    "tailoring machine (only stylist)": {
+        "dimensional stone": 2,
+        "mirror stone": 2,
+        "ice blocks": 250,
+        "japanese bonsai": 1,
+        "red dye": 10,
+        "green dye": 10,
+        "blue dye": 10,
+        "oak log": 500
+    },
+    "mewtwo male outfit": {
+        "leather": 10,
+        "future orb": 200,
+        "strange antenna": 100,
+        "slow tail": 10,
+        "pawn": 200,
+        "psycraft tapestry": 2,
+        "psyduck mug": 5,
+        "linearly guided hypnosis": 70,
+        "refined fashion point": 12
+    },
+    "cowgirl outfit": {
+        "leather": 10,
+        "bull tail": 30,
+        "cowboy hat": 1,
+        "mimic clothes": 20,
+        "disguise": 2,
+        "mediling": 200,
+        "palm leaves": 20,
+        "cure flower": 50,
+        "water plant": 100,
+        "refined fashion point": 12
+    },
+    "oriental fighter outfit": {
+        "leather": 10,
+        "splinter kimono": 1,
+        "dragon tattoo": 1,
+        "cute ball": 200,
+        "eruption ears": 100,
+        "female ear": 100,
+        "fox tail": 5,
+        "refined fashion point": 12
+    },
+    "longcap female outfit": {
+        "leather": 10,
+        "streak tail": 100,
+        "lizard tail": 30,
+        "gyarados tail": 20,
+        "big seed": 70,
+        "beautiful scales": 1,
+        "doll star": 100,
+        "refined fashion point": 12
+    },
+    "street fighter outfit": {
+        "leather": 10,
+        "dj cap": 1,
+        "iron bracelet": 10,
+        "karate duck": 10,
+        "sharp leaves": 200,
+        "silk": 10,
+        "magma foot": 10,
+        "black fins": 100,
+        "samurai hair": 100,
+        "refined fashion point": 12
+    },
+    "power topaz": {
+        "tech ball": 3,
+        "big crystal": 5,
+        "ice orb": 100,
+        "linearly guided hypnosis": 40,
+        "armadillo claw": 350,
+        "refined style point": 600
+    },
+    "power emerald": {
+        "tech ball": 3,
+        "big crystal": 5,
+        "ice orb": 100,
+        "linearly guided hypnosis": 40,
+        "sand tail": 400,
+        "refined style point": 600
+    },
+    "power ruby": {
+        "tech ball": 3,
+        "big crystal": 5,
+        "ice orb": 100,
+        "linearly guided hypnosis": 40,
+        "mediling": 500,
+        "refined style point": 600
+    },
+    "sack": {
+        "leather": 1,
+        "mediling": 250,
+        "pawn": 250,
+        "springs": 250,
+        "refined style point": 600
+    },
+    "blue bunny ear": {
+        "leather": 3,
+        "zap": 10,
+        "red scale": 120,
+        "blue ball": 20,
+        "dragon tail": 70,
+        "refined style point": 600
+    },
+    "pink bunny ear": {
+        "leather": 3,
+        "red scale": 120,
+        "cute ball": 250,
+        "fur ball": 230,
+        "refined style point": 600
+    },
+    "traveler bag": {
+        "fire tail": 50,
+        "cloth": 30,
+        "dragon tooth": 7,
+        "refined style point": 80
+    },
+    "mafia cap": {
+        "leather": 3,
+        "brush": 10,
+        "captain hat": 10,
+        "red cape": 5,
+        "black bandana": 2,
+        "bandit mask": 4,
+        "black fins": 100,
+        "refined style point": 600
+    },
+    "sword ninja pack": {
+        "water stone": 2,
+        "silk": 10,
+        "squirtle hull": 150,
+        "blue dye": 5,
+        "zap": 15,
+        "refined style point": 400
+    },
+    "sai ninja pack": {
+        "water stone": 2,
+        "silk": 10,
+        "squirtle hull": 150,
+        "red dye": 5,
+        "lobster claw": 100,
+        "refined style point": 400
+    },
+    "nunchaku ninja pack": {
+        "water stone": 2,
+        "silk": 10,
+        "squirtle hull": 150,
+        "red dye": 2,
+        "yellow dye": 3,
+        "nu ball": 150,
+        "refined style point": 400
+    },
+    "staff ninja pack": {
+        "water stone": 2,
+        "silk": 10,
+        "squirtle hull": 150,
+        "blue dye": 2,
+        "pink dye": 3,
+        "dark moon": 12,
+        "refined style point": 400
+    },
+    "wizard hat": {
+        "enigma stone": 2,
+        "silk": 10,
+        "psychic spoon": 100,
+        "strange wing": 75,
+        "slow tail": 35,
+        "refined style point": 400
+    },
+    "mage hat": {
+        "psychic spoon": 50,
+        "strange antenna": 60,
+        "enigma stone": 1,
+        "strange tail": 30,
+        "refined style point": 200
+    },
+    "warlock hat": {
+        "enigma stone": 2,
+        "silk": 10,
+        "psychic spoon": 100,
+        "linearly guided hypnosis": 30,
+        "strange antenna": 60,
+        "refined style point": 400
+    },
+    "gentleman hat": {
+        "kanga ear": 10,
+        "leather": 10,
+        "reindeer horn": 20,
+        "owl feather": 400,
+        "refined fashion point": 12
+    },
+    "magician hat": {
+        "mimic clothes": 35,
+        "silk": 10,
+        "black dye": 5,
+        "refined style point": 200
+    },
+    "black robe": {
+        "scythe": 100,
+        "scizor claw": 5,
+        "insect claw": 50,
+        "leather": 5,
+        "ladybug wing": 15,
+        "gligar claw": 15,
+        "long antenna": 15,
+        "refined fashion point": 12
+    },
+    "monk robe": {
+        "scythe": 100,
+        "scizor claw": 5,
+        "insect claw": 50,
+        "leather": 5,
+        "crab claw": 10,
+        "long antenna": 25,
+        "refined fashion point": 12
+    },
+    "wedding dress": {
+        "ice bra": 70,
+        "ski poles": 10,
+        "snow skis": 10,
+        "goggles": 10,
+        "strange spike": 200,
+        "silk": 10,
+        "gem star": 10,
+        "strange flower": 50,
+        "comb": 50,
+        "cute ball": 250,
+        "refined fashion point": 12
+    },
+    "flamethrower kit": {
+        "magma foot": 70,
+        "fire feather": 200,
+        "mini volcano": 40,
+        "fire horse foot": 5,
+        "strange bone": 20,
+        "black hull": 30,
+        "fire stone": 6,
+        "refined fashion point": 12
+    },
+    "water pendant": {
+        "beautiful scales": 3,
+        "ruby": 50,
+        "giant ruby": 5,
+        "red scale": 100,
+        "refined style point": 400
+    },
+    "classic vampire costume": {
+        "dome fossil": 1,
+        "insect tail": 10,
+        "rock stone": 4,
+        "refined style point": 200
+    },
+    "vampire costume": {
+        "dome fossil": 1,
+        "insect tail": 10,
+        "rock stone": 4,
+        "refined style point": 200
+    },
+    "chef costume addon": {
+        "pizza": 3,
+        "bitten apple": 250,
+        "mushroom": 25,
+        "plant foot": 100,
+        "magikarp fin": 500,
+        "small wing": 20,
+        "tentacle": 50,
+        "mystic star": 3,
+        "refined fashion point": 12
+    },
+    "chair": {
+        "rustic chair": 1,
+        "fire feather": 10,
+        "pawn": 10,
+        "lobster claw": 10,
+        "nu ball": 8,
+        "planks": 32
+    },
+    "rustic balcony": {
+        "strong wooden table": 1,
+        "fire feather": 10,
+        "fire tail": 20,
+        "colored feather": 10,
+        "nu ball": 8,
+        "planks": 40
+    },
+    "wooden stand": {
+        "farfetch'd stick": 5,
+        "fire feather": 10,
+        "pawn": 10,
+        "lobster claw": 10,
+        "nu ball": 8,
+        "planks": 32
+    },
+    "classic furniture": {
+        "great petal": 30,
+        "fire feather": 10,
+        "hot fur": 10,
+        "planks": 40
+    },
+    "classic clock": {
+        "steel wing": 20,
+        "spin machine": 15,
+        "planks": 40
+    },
+    "classic wardrobe": {
+        "silk": 3,
+        "shock topknot": 25,
+        "planks": 40
+    },
+    "classic bookcase": {
+        "linearly guided hypnosis": 25,
+        "bat wing": 10,
+        "point of light": 10,
+        "planks": 80
+    },
+    "classic dresser": {
+        "big crystal": 6,
+        "ice bra": 6,
+        "planks": 80
+    },
+    "abra bed": {
+        "white bed": 1,
+        "psycraft tapestry": 2,
+        "psychic spoon": 100,
+        "planks": 200
+    },
+    "bulbasaur bed": {
+        "white bed": 1,
+        "naturia tapestry": 2,
+        "bulb": 150,
+        "planks": 200
+    },
+    "scyther bed": {
+        "white bed": 1,
+        "naturia tapestry": 2,
+        "scythe": 20,
+        "planks": 200
+    },
+    "umbreon bed": {
+        "white bed": 1,
+        "malefic tapestry": 2,
+        "dark beak": 10,
+        "dark moon": 15,
+        "planks": 200
+    },
+    "vaporeon bed": {
+        "white bed": 1,
+        "seavell tapestry": 2,
+        "gyarados tail": 10,
+        "lobster claw": 100,
+        "planks": 200
+    },
+    "lucario bed": {
+        "white bed": 1,
+        "gardestrike tapestry": 2,
+        "metal jaw": 50,
+        "metal hull": 35,
+        "planks": 200
+    },
+    "pidgeot bed": {
+        "white bed": 1,
+        "wingeon tapestry": 2,
+        "colored feather": 120,
+        "planks": 200
+    },
+    "raichu bed": {
+        "white bed": 1,
+        "raibolt tapestry": 2,
+        "electric rat tail": 150,
+        "planks": 200
+    },
+    "marowak bed": {
+        "white bed": 1,
+        "orebound tapestry": 2,
+        "bone": 160,
+        "planks": 200
+    },
+    "blackjack table": {
+        "luck medallion": 3,
+        "punch machine": 22,
+        "planks": 40
+    },
+    "roulette table": {
+        "luck medallion": 3,
+        "spin machine": 22,
+        "planks": 40
+    },
+    "bulbasaur big figure": {
+        "bulb": 50,
+        "great petal": 50,
+        "greens": 50,
+        "planks": 100
+    },
+    "squirtle big figure": {
+        "squirtle hull": 50,
+        "red scale": 50,
+        "black fins": 50,
+        "planks": 100
+    },
+    "charmander big figure": {
+        "fire tail": 50,
+        "hot fur": 50,
+        "fire feather": 50,
+        "planks": 100
+    },
+    "rapidash toy": {
+        "fire horse foot": 10,
+        "giant piece of fur": 30,
+        "mini volcano": 3,
+        "black hull": 20,
+        "planks": 80
+    },
+    "blue rapidash toy": {
+        "rapidash toy": 1,
+        "blue dye": 10
+    },
+    "unpacked toy": {
+        "leather": 1,
+        "future orb": 80,
+        "refined style point": 70
+    },
+    "pikachu tapestry": {
+        "silk": 1,
+        "white tapestry": 1,
+        "yellow dye": 3,
+        "electric rat tail  32 refined style point": 7
+    },
+    "blue official tapestry": {
+        "silk": 10,
+        "white tapestry": 1,
+        "blue dye": 5,
+        "karate duck": 10,
+        "giant bat wing": 100,
+        "refined style point": 200
+    },
+    "official tapestry": {
+        "silk": 10,
+        "white tapestry": 1,
+        "red dye": 5,
+        "fire ear": 15,
+        "scizor claw": 6,
+        "refined style point": 200
+    },
+    "venusaur tapestry": {
+        "silk": 5,
+        "white tapestry": 1,
+        "green dye": 5,
+        "bag of pollen": 50,
+        "leaves": 250,
+        "bulb": 50,
+        "refined style point": 100
+    },
+    "blastoise tapestry": {
+        "silk": 5,
+        "white tapestry": 1,
+        "blue dye": 5,
+        "water pendant": 250,
+        "squirtle hull": 60,
+        "refined style point": 100
+    },
+    "charizard tapestry": {
+        "silk": 5,
+        "white tapestry": 1,
+        "red dye": 5,
+        "dragon tooth": 5,
+        "pot of lava": 250,
+        "fire tail": 20,
+        "refined style point": 100
+    },
+    "oak planks": {
+        "oak log": 100
+    },
+    "style point (40x)": {
+        "fashion point": 1
+    },
+    "oak log (100x)": {
+        "high tech chip": 1
+    },
+    "fashion point (100x)": {
+        "high tech chip": 1
+    },
+    "superior xp banner": {
+        "blue tissue": 12,
+        "fashion point": 80
+    },
+    "wiseman elixir (10x)": {
+        "emerald": 6,
+        "volcanic essence": 2,
+        "wingeon essence": 2,
+        "orebound essence": 2,
+        "fashion points": 80
+    },
+    "knowledge elixir (20x)": {
+        "topaz": 10,
+        "ironhard essence": 5,
+        "psycraft essence": 5,
+        "malefic essence": 5,
+        "raibolt essence  8 refined fashion points": 5
+    },
+    "lycanroc male outfit": {
+        "leather": 15,
+        "miss trace": 350,
+        "ghost skull": 200,
+        "lizard tail": 40,
+        "ten thousand dollars": 100,
+        "refined fashion point": 20
+    },
+    "persian female outfit": {
+        "leather": 15,
+        "tribe mark": 180,
+        "cat ear": 25,
+        "sharp leaves": 200,
+        "luck medallion": 1,
+        "mystic star": 2,
+        "yellow wool ball": 30,
+        "ten thousand dollars": 100,
+        "refined fashion point": 20
+    },
+    "masked male outfit": {
+        "leather": 15,
+        "gladiador helmet": 1,
+        "samurai hair": 250,
+        "punch machine": 60,
+        "kick machine": 60,
+        "mini wings": 12,
+        "eruption ears": 250,
+        "refined fashion point": 20
+    },
+    "pirate lady outfit": {
+        "leather": 15,
+        "giant ruby": 50,
+        "poisonous tail": 500,
+        "dark pendant": 3,
+        "pirate costume": 1,
+        "refined fashion point": 20
+    },
+    "surgeon of death outfit": {
+        "leather": 15,
+        "nurse costume": 6,
+        "big crystal": 20,
+        "reaper costume": 1,
+        "refined fashion point": 20
+    },
+    "hacker outfit": {
+        "leather": 15,
+        "macbook": 1,
+        "red cape": 10,
+        "zap": 20,
+        "tech ball": 15,
+        "mimic clothes": 20,
+        "refined fashion point": 20
+    },
+    "boss outfit": {
+        "leather": 15,
+        "splinter kimono": 1,
+        "male ear": 100,
+        "lizard tail": 25,
+        "blaze topknot": 1,
+        "refined fashion point": 20
+    },
+    "celestial outfit": {
+        "leather": 15,
+        "cloud": 250,
+        "red glasses": 1,
+        "crimson feather": 250,
+        "scary smile": 1,
+        "refined fashion point": 20
+    },
+    "sunny outfit": {
+        "leather": 15,
+        "beautiful scale": 8,
+        "cute ball": 200,
+        "mimic clothes": 20,
+        "ice bra": 30,
+        "sharp leaves": 100,
+        "refined fashion point": 20
+    },
+    "bikini outfit": {
+        "leather": 15,
+        "massive vines": 1,
+        "ice bra": 10,
+        "mediling": 100,
+        "gift bag": 10,
+        "streak tail": 150,
+        "refined fashion point": 20
+    },
+    "tayuya costume": {
+        "metal hull": 250,
+        "metal stone": 2,
+        "metal claw": 1,
+        "scizor claw": 12,
+        "red dragon scarf": 1,
+        "green dragon scarf": 1,
+        "yellow dragon scarf": 1,
+        "black dye": 20,
+        "refined fashion point": 20
+    },
+    "mariachi costume": {
+        "leather": 8,
+        "palm leaves": 30,
+        "water plant": 400,
+        "sharp leaves": 200,
+        "refined fashion point": 12
+    },
+    "majin costume": {
+        "leather": 15,
+        "chocolat bar": 65,
+        "sticky hand": 80,
+        "cure flower": 200,
+        "blue dye": 5,
+        "pink dye": 5,
+        "scary smile": 1,
+        "gosme": 20,
+        "refined fashion point": 20
+    },
+    "nursering kit": {
+        "leather": 5,
+        "nurse costume": 10,
+        "heart stone": 4,
+        "refined fashion point": 8
+    },
+    "big momma's dress": {
+        "leather": 5,
+        "female ear": 100,
+        "ice bra": 15,
+        "pawn": 200,
+        "yellow dye": 10,
+        "red dye": 10,
+        "refined fashion point": 8
+    },
+    "tentacool hood": {
+        "leather": 7,
+        "giant bat wing": 200,
+        "ruby": 80,
+        "tentacle": 10,
+        "giant ruby": 40,
+        "gyarados tail": 30,
+        "water stone": 3,
+        "venom stone": 3,
+        "refined fashion point": 12
+    },
+    "rock guitar": {
+        "leather": 15,
+        "bandit mask": 2,
+        "electric tail": 25,
+        "max volt paw": 1,
+        "refined fashion point": 20
+    },
+    "flat iron": {
+        "leather": 10,
+        "comb": 250,
+        "green dye": 35,
+        "cure flower": 100,
+        "refined fashion point": 12
+    },
+    "predator mask": {
+        "leather": 15,
+        "mini volcano": 10,
+        "magma foot": 40,
+        "blaze topknot": 1,
+        "refined fashion point": 20
+    },
+    "demon costume": {
+        "leather": 8,
+        "scary smile": 1,
+        "mini wings": 30,
+        "scizor claw": 10,
+        "refined fashion point": 20
+    },
+    "transformers suit": {
+        "leather": 15,
+        "scizor claw": 20,
+        "lizard tail": 60,
+        "ancient stone": 1,
+        "red dye": 30,
+        "refined fashion point": 20
+    },
+    "street fighter costume": {
+        "leather": 15,
+        "insect claw": 250,
+        "martial arts scroll": 250,
+        "white headband": 3,
+        "refined fashion point": 20
+    },
+    "street fighter red costume": {
+        "leather": 15,
+        "insect claw": 250,
+        "martial arts scroll": 250,
+        "red headband": 3,
+        "refined fashion point": 20
+    },
+    "cowgirl costume": {
+        "leather": 15,
+        "cow tail": 250,
+        "female ear": 200,
+        "yellow bow": 4,
+        "cute ball": 200,
+        "samurai hair": 50,
+        "topknot": 200,
+        "beautiful scales  20 refined fashion point": 2
+    },
+    "farmer costume": {
+        "leather": 15,
+        "cow tail": 250,
+        "straw": 500,
+        "feather": 250,
+        "bull tail": 30,
+        "diamond  20 refined fashion point": 3
+    },
+    "flash mask": {
+        "leather": 10,
+        "scythe": 30,
+        "red dye": 20,
+        "lobster claw": 200,
+        "refined fashion point": 12
+    },
+    "superdog costume": {
+        "leather": 15,
+        "strange bone": 40,
+        "giant piece of fur": 200,
+        "ghost skull": 200,
+        "black cape": 2,
+        "dog ear": 200,
+        "red dye": 15,
+        "refined fashion point": 20
+    },
+    "dynomutt costume": {
+        "leather": 10,
+        "strange bone": 18,
+        "giant piece of fur": 200,
+        "ghost skull": 200,
+        "black cape": 1,
+        "diamond": 3,
+        "green dye": 15,
+        "refined fashion point": 20
+    },
+    "pirate empress red dress": {
+        "silk": 40,
+        "ice bra": 25,
+        "snake tail": 5,
+        "poisonous tail": 250,
+        "red dye": 20,
+        "diamond": 2,
+        "refined fashion point": 12
+    },
+    "pirate empress blue dress": {
+        "silk": 40,
+        "ice bra": 25,
+        "snake tail": 5,
+        "poisonous tail": 250,
+        "blue dye": 20,
+        "diamond": 2,
+        "refined fashion point": 12
+    },
+    "pirate empress yellow dress": {
+        "silk": 40,
+        "ice bra": 25,
+        "snake tail": 5,
+        "poisonous tail": 250,
+        "yellow dye": 20,
+        "diamond": 2,
+        "refined fashion point": 12
+    },
+    "pokemon trainer costume": {
+        "leather": 10,
+        "red cap": 20,
+        "hot fur": 250,
+        "empty ultra ball": 250,
+        "ultimate potion": 100,
+        "refined fashion point": 12
+    },
+    "ninja costume": {
+        "leather": 10,
+        "ninja mask": 10,
+        "hot fur": 250,
+        "creepy eye": 15,
+        "refined fashion point": 12
+    },
+    "clan costume": {
+        "leather": 13,
+        "ninja mask": 10,
+        "hot fur": 250,
+        "creepy eye": 15,
+        "diamond": 3,
+        "refined fashion point": 20
+    },
+    "sailor costume": {
+        "leather": 13,
+        "angel halo": 1,
+        "great petal": 250,
+        "dark moon": 12,
+        "diamond": 3,
+        "refined fashion point": 20
+    },
+    "m.i.b costume": {
+        "leather": 10,
+        "red scale": 250,
+        "black fins": 250,
+        "black dye": 10,
+        "refined fashion point": 12
+    },
+    "superhero costume": {
+        "leather": 10,
+        "sheep wool": 400,
+        "thunder stone": 2,
+        "raibolt tapestry": 2,
+        "electric tail": 5,
+        "refined fashion point": 12
+    },
+    "life jacket": {
+        "leather": 12,
+        "red scale": 250,
+        "nu ball": 100,
+        "springs": 200,
+        "refined fashion point": 12
+    },
+    "lifeguard costume": {
+        "leather": 15,
+        "gem star": 10,
+        "red scale": 250,
+        "fins": 15,
+        "diamond": 3,
+        "refined fashion point": 20
+    },
+    "zoom mask": {
+        "leather": 10,
+        "creepy eye": 10,
+        "big crystal": 20,
+        "crystal stone": 1,
+        "refined fashion point": 12
+    },
+    "diving suit": {
+        "fins": 15,
+        "diving mask": 15,
+        "air tank": 15,
+        "water stone": 20,
+        "scythe": 50,
+        "gyarados tail": 50,
+        "oak planks": 16
+    },
+    "roller skate": {
+        "cure flower": 250,
+        "big crystal": 100,
+        "owl feather": 500,
+        "crystal stone": 6,
+        "oak planks": 25,
+        "refined fashion point": 25
+    },
+    "sandboard gear": {
+        "squirtle hull": 250,
+        "red scale": 250,
+        "streak tail": 250,
+        "strange antenna": 250,
+        "ghost skull": 250,
+        "sand tail": 250,
+        "black fins": 250,
+        "earth stone": 10,
+        "water stone": 10,
+        "diamond": 5,
+        "oak planks": 32
+    },
+    "snowboard gear": {
+        "ski poles": 15,
+        "snow skis": 15,
+        "goggles": 15,
+        "seal tail": 500,
+        "strange spike": 500,
+        "tusk": 250,
+        "ice blocks": 250,
+        "diamond": 3,
+        "oak planks": 24
+    },
+    "fashion shoes": {
+        "massive vines": 1,
+        "mini wings": 20,
+        "raikou's legendary tail": 10,
+        "suicune's legendary tail": 10,
+        "entei's legendary fur": 10,
+        "steelix tail": 15,
+        "kick machine": 10,
+        "magma foot": 70,
+        "mystic star": 6,
+        "diamond": 20,
+        "ten thousand dollars": 100,
+        "oak planks": 50,
+        "refined fashion point": 50
+    },
+    "fashion heart": {
+        "solid rock paw": 1,
+        "palm leaves": 50,
+        "raikou's legendary tail": 10,
+        "suicune's legendary tail": 10,
+        "entei's legendary fur": 10,
+        "pelican wing": 500,
+        "small crown": 500,
+        "strange rock": 200,
+        "pawn": 250,
+        "crystal stone": 6,
+        "diamond": 20,
+        "ten thousand dollars": 100,
+        "oak planks": 50,
+        "refined fashion point": 50
+    },
+    "fancy chair": {
+        "chair": 3,
+        "point of light": 10,
+        "magma foot": 5,
+        "oak planks": 2
+    },
+    "white chair": {
+        "ice orb": 300,
+        "oak planks": 1
+    },
+    "white glass table": {
+        "big crystal": 10,
+        "pure white balcony": 1,
+        "oak planks": 2
+    },
+    "pure white balcony": {
+        "ice orb": 200,
+        "pinsir horn": 10,
+        "white table": 1,
+        "oak planks": 1
+    },
+    "neon balcony": {
+        "pure white balcony": 1,
+        "tech ball": 2,
+        "oak planks": 2
+    },
+    "tron chair": {
+        "wooden chair": 1,
+        "tech ball": 2,
+        "oak planks": 1
+    },
+    "tron table": {
+        "pure white balcony": 1,
+        "tech ball": 1,
+        "black dye": 5,
+        "oak planks": 2
+    },
+    "tron pillar": {
+        "tech ball": 2,
+        "oak planks": 2
+    },
+    "red cool chair": {
+        "tron chair": 1,
+        "red dye": 5
+    },
+    "yellow cool chair": {
+        "tron chair": 1,
+        "yellow dye": 5
+    },
+    "blue cool chair": {
+        "tron chair": 1,
+        "blue dye": 5
+    },
+    "cool glass table": {
+        "white glass table": 1,
+        "fur ball": 100,
+        "big crystal": 10
+    },
+    "modern table": {
+        "black dye": 6,
+        "blue dye": 6,
+        "planks": 80
+    },
+    "big modern table": {
+        "grey pok\u00e9 ball table": 10,
+        "modern table": 2,
+        "oak planks": 4
+    },
+    "modern leather sofa": {
+        "black leather sofa": 12,
+        "fur ball": 72,
+        "planks": 48
+    },
+    "builder kit": {
+        "leather": 5,
+        "stone orb": 250,
+        "sandbag": 250,
+        "horn drill": 250,
+        "strange rock": 250,
+        "ancient stone": 1,
+        "oak planks": 11
+    },
+    "bunk bed": {
+        "black/white bed": 1,
+        "pok\u00e9 ball bed": 1,
+        "oak planks": 3
+    },
+    "king size bed": {
+        "black/white bed": 2,
+        "pok\u00e9 ball bed": 1,
+        "oak planks": 2
+    },
+    "aggron bed": {
+        "white bed": 1,
+        "orebound tapestry": 6,
+        "metal hull": 125,
+        "oak planks": 4
+    },
+    "charizard bed": {
+        "white bed": 1,
+        "wingeon tapestry": 3,
+        "volcanic tapestry": 3,
+        "fire tail": 150,
+        "dragon tooth": 15,
+        "oak planks": 4
+    },
+    "gengar bed": {
+        "white bed": 1,
+        "malefic tapestry": 6,
+        "traces of ghost": 160,
+        "oak planks": 4
+    },
+    "gyarados bed": {
+        "white bed": 1,
+        "seavell tapestry": 6,
+        "gyarados tail": 40,
+        "oak planks": 4
+    },
+    "hitmonchan bed": {
+        "white bed": 1,
+        "gardestrike tapestry": 6,
+        "punch machine": 60,
+        "martial arts scroll": 60,
+        "oak planks": 4
+    },
+    "snorlax bed": {
+        "white bed": 1,
+        "flame bed": 1,
+        "psychic bed": 1,
+        "rock bed": 1,
+        "sea bed": 1,
+        "black/white bed": 1,
+        "pok\u00e9 ball bed": 1,
+        "oak planks": 4
+    },
+    "scizor bed": {
+        "white bed": 1,
+        "naturia tapestry": 6,
+        "scizor claw": 15,
+        "oak planks": 4
+    },
+    "pikachu big figure": {
+        "electric rat tail": 50,
+        "sheep wool": 50,
+        "shock topknot": 50,
+        "planks": 100
+    },
+    "electabuzz big figure": {
+        "electric tail": 6,
+        "sheep wool": 50,
+        "shock topknot": 50,
+        "planks": 100
+    },
+    "magmar big figure": {
+        "pot of lava": 200,
+        "magma foot": 14,
+        "planks": 100
+    },
+    "jynx big figure": {
+        "ice orb": 200,
+        "ice bra": 11,
+        "planks": 100
+    },
+    "infernape big figure": {
+        "fire feather": 100,
+        "fire stone": 1,
+        "planks": 100
+    },
+    "scyther big figure": {
+        "scythe": 15,
+        "pot of moss bug": 250,
+        "planks": 100
+    },
+    "pikachu unpacked costume": {
+        "cloth": 30,
+        "fur ball": 60,
+        "mystic star": 1,
+        "refined fashion point": 4
+    },
+    "kangaskhan locker": {
+        "locker": 1,
+        "gardestrike urn": 1,
+        "gardestrike tapestry": 4,
+        "heart stone": 10,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "aggron locker": {
+        "locker": 1,
+        "metal hull": 150,
+        "metal stone": 3,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "absol locker": {
+        "locker": 1,
+        "scary smile": 1,
+        "malefic tapestry": 4,
+        "dark moon": 40,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "sceptile locker": {
+        "locker": 1,
+        "massive vines": 1,
+        "naturia tapestry": 4,
+        "greens": 400,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "rhydon locker": {
+        "locker": 1,
+        "solid rock paw": 1,
+        "orebound tapestry": 4,
+        "horn drill": 350,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "gardevoir locker": {
+        "locker": 1,
+        "psycraft urn": 1,
+        "psycraft tapestry": 4,
+        "enigma stone": 10,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "electivire locker": {
+        "locker": 1,
+        "max volt paw": 1,
+        "raibolt tapestry": 4,
+        "thunder stone": 10,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "feraligatr locker": {
+        "locker": 1,
+        "beautiful scales": 10,
+        "seavell tapestry": 4,
+        "red scale": 400,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "infernape locker": {
+        "locker": 1,
+        "blaze topknot": 1,
+        "volcanic tapestry": 4,
+        "fire stone": 10,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "dragonair locker": {
+        "locker": 1,
+        "wingeon urn  4 wingeon tapestry  1 crystal stone": 1,
+        "oak planks": 12,
+        "refined fashion point": 12
+    },
+    "black tapestry": {
+        "cloth": 20,
+        "white tapestry": 1,
+        "ice blocks": 150,
+        "black dye": 3,
+        "refined fashion point": 1
+    },
+    "blood tapestry": {
+        "silk": 5,
+        "white tapestry": 1,
+        "tooth": 500,
+        "giant bat wing": 50,
+        "red dye": 10,
+        "refined fashion point": 2
+    },
+    "aqua tapestry": {
+        "silk": 5,
+        "white tapestry": 1,
+        "water pendant": 500,
+        "gyarados tail": 12,
+        "blue dye": 10,
+        "refined fashion point": 2
+    },
+    "heart tapestry": {
+        "silk": 5,
+        "white tapestry": 1,
+        "comb": 50,
+        "topknot": 70,
+        "pink dye": 10,
+        "refined fashion point": 2
+    },
+    "mewtwo tapestry": {
+        "silk": 10,
+        "white tapestry": 1,
+        "future orb": 500,
+        "psychic spoon": 50,
+        "linearly guided hypnosis": 25,
+        "strange antenna": 130,
+        "refined fashion point": 4
+    },
+    "thrift store voucher": {
+        "punch stone": 1,
+        "darkness stone": 1,
+        "cocoon stone": 1,
+        "thunder stone": 1,
+        "ice stone": 1,
+        "venom stone": 1,
+        "rock stone": 1,
+        "enigma stone": 1,
+        "heart stone": 1,
+        "leaf stone": 1,
+        "water stone": 1,
+        "refined fashion point": 3
+    },
+    "thrift store": {
+        "punch stone": 2,
+        "darkness stone": 2,
+        "cocoon stone": 2,
+        "thunder stone": 2,
+        "ice stone": 2,
+        "venom stone": 2,
+        "rock stone": 2,
+        "enigma stone": 2,
+        "heart stone": 2,
+        "leaf stone": 2,
+        "water stone": 2,
+        "oak planks": 8
+    },
+    "cannon mecha": {
+        "mecha": 1,
+        "blue dye": 50,
+        "squirtle hull": 400,
+        "water stone": 20,
+        "metal stone": 6
+    },
+    "flame mecha": {
+        "mecha": 1,
+        "red dye": 50,
+        "magma foot": 50,
+        "fire stone": 20,
+        "metal stone": 6
+    },
+    "forest mecha": {
+        "mecha": 1,
+        "green dye": 50,
+        "palm leaves": 62,
+        "leaf stone": 20,
+        "metal stone": 6
+    },
+    "nightmare mecha": {
+        "mecha": 1,
+        "pink dye": 50,
+        "traces of ghost": 250,
+        "darkness stone": 20,
+        "metal stone": 6
+    },
+    "small potion (10x)": {
+        "bug gosme": 15,
+        "water gem": 15,
+        "pure grass": 10
+    },
+    "minor seed bag": {
+        "seed": 200
+    },
+    "green gem": {
+        "water gem": 12,
+        "pure grass": 4
+    },
+    "leaves (5x)": {
+        "pure grass": 42
+    },
+    "seed (80x)": {
+        "pure grass": 40
+    },
+    "beatiful flower": {
+        "bulb": 2,
+        "leaves": 6,
+        "pure grass": 200
+    },
+    "banana": {
+        "band aid": 200,
+        "leaves": 25,
+        "pure grass": 200
+    },
+    "pecha seed": {
+        "minor seed bag": 4,
+        "bottle of poison": 400,
+        "pure grass": 400
+    },
+    "rawst seed": {
+        "minor seed bag": 4,
+        "essence of fire": 400,
+        "pure grass": 400
+    },
+    "school chair": {
+        "wooden chair": 1,
+        "straw": 100
+    },
+    "empty vase": {
+        "earth ball": 100,
+        "stone orb": 3
+    },
+    "exotic flower (5x)": {
+        "seed": 20,
+        "pure grass": 5
+    },
+    "indoor plant": {
+        "leaves": 1,
+        "pure grass": 4
+    },
+    "classic plant": {
+        "empty vase": 1,
+        "leaves": 5,
+        "pure grass": 80
+    },
+    "condensed grass": {
+        "pure grass": 100
+    },
+    "nature energy": {
+        "pure grass": 100
+    },
+    "great potion": {
+        "water gem": 9,
+        "bottle of poison": 12,
+        "pure grass": 10
+    },
+    "medicine": {
+        "water gem": 9,
+        "rubber ball": 12,
+        "pure grass": 10
+    },
+    "honey pot": {
+        "pot of moss bug": 2,
+        "pure grass": 10
+    },
+    "cheri seed": {
+        "minor seed bag": 12,
+        "electric box": 30,
+        "condensed grass": 12
+    },
+    "nomel seed": {
+        "minor seed bag": 12,
+        "bone": 5,
+        "condensed grass": 12
+    },
+    "chesto seed": {
+        "minor seed bag": 12,
+        "traces of ghost": 3,
+        "condensed grass": 12
+    },
+    "persim seed": {
+        "minor seed bag": 12,
+        "future orb": 40,
+        "condensed grass": 12
+    },
+    "papers": {
+        "plant tail": 1,
+        "pure grass": 80
+    },
+    "scissors": {
+        "piece of steel": 60,
+        "pure grass": 20
+    },
+    "school desk": {
+        "strong wooden table": 1,
+        "jungle balcony": 1
+    },
+    "blood herb": {
+        "leaves": 2,
+        "seed": 26,
+        "pure grass": 20
+    },
+    "glacial herb": {
+        "leaves": 20,
+        "seed": 260,
+        "pure grass": 200
+    },
+    "venom herb": {
+        "leaves": 20,
+        "seed": 260,
+        "pure grass": 200
+    },
+    "nature herb": {
+        "leaves": 20,
+        "seed": 260,
+        "pure grass": 200
+    },
+    "honey herb": {
+        "leaves": 20,
+        "seed": 260,
+        "pure grass": 200
+    },
+    "snow herb": {
+        "leaves": 20,
+        "seed": 260,
+        "pure grass": 200
+    },
+    "exotic plant": {
+        "empty vase": 1,
+        "exotic flower": 5,
+        "pure grass": 80
+    },
+    "pink rose": {
+        "seed": 100,
+        "ghost essence": 20,
+        "pure grass": 40
+    },
+    "red rose": {
+        "seed": 100,
+        "essence of fire": 20,
+        "pure grass": 40
+    },
+    "sandslash bush": {
+        "minor seed bag": 6,
+        "armadillo claw": 8,
+        "condensed grass": 12
+    },
+    "primeape bush": {
+        "minor seed bag": 6,
+        "iron bracelet": 11,
+        "condensed grass": 12
+    },
+    "nidoking bush": {
+        "minor seed bag": 6,
+        "male ear": 8,
+        "condensed grass": 12
+    },
+    "golem bush": {
+        "minor seed bag": 6,
+        "strange rock": 8,
+        "condensed grass": 12
+    },
+    "flareon bush": {
+        "minor seed bag": 6,
+        "fire tail": 9,
+        "condensed grass": 12
+    },
+    "chansey bush": {
+        "minor seed bag": 6,
+        "pokemon egg": 3,
+        "condensed grass": 12
+    },
+    "red student monitor": {
+        "red scale": 20,
+        "steel wing": 20,
+        "nature energy": 40
+    },
+    "pokedex chip 2.0": {
+        "magnet": 20,
+        "screw": 200,
+        "nature energy": 10
+    },
+    "ultra potion (100x)": {
+        "water gem": 250,
+        "enchanted gem": 250,
+        "water pendant": 15,
+        "condensed grass": 5,
+        "red scale": 2
+    },
+    "major seed bag": {
+        "minor seed bag": 10,
+        "leaves": 25,
+        "bag of pollem": 20
+    },
+    "old beard": {
+        "plant foot": 5,
+        "leaves": 70,
+        "condensed grass": 8
+    },
+    "beautiful flower": {
+        "bulb": 15,
+        "pecha seed": 1,
+        "condensed grass": 20
+    },
+    "charla flower": {
+        "fire tail": 15,
+        "rawst seed": 1,
+        "condensed grass": 20
+    },
+    "aspear seed": {
+        "minor seed bag": 8,
+        "ice orb": 30,
+        "condensed grass": 12
+    },
+    "pokedex (1st gen)": {
+        "fox tail": 2,
+        "strange flower": 10,
+        "giant ruby": 10,
+        "onix tail": 3,
+        "nature energy": 40
+    },
+    "pokedex (2nd gen)": {
+        "squirrel tail": 12,
+        "miss trace": 10,
+        "streak tail": 12,
+        "nature energy": 40
+    },
+    "document": {
+        "greens": 10,
+        "condensed grass": 8
+    },
+    "home picture": {
+        "blue vines": 5,
+        "insect claw  8 condensed grass": 4
+    },
+    "school dresser": {
+        "wooden pokeball table": 2,
+        "colored feather": 25
+    },
+    "cerulean flowers": {
+        "empty vase": 1,
+        "minor seed bag": 5,
+        "squirtle hull": 5,
+        "condensed grass": 8
+    },
+    "bonsai tree": {
+        "empty vase": 1,
+        "minor seed bag": 3,
+        "scissors": 2,
+        "condensed grass": 4
+    },
+    "bonsai exotic tree": {
+        "bonsai tree": 1,
+        "male ear": 15,
+        "condensed grass": 16
+    },
+    "venusaur bush": {
+        "major seed bag": 4,
+        "bulb": 40,
+        "condensed grass": 88
+    },
+    "charizard bush": {
+        "major seed bag": 4,
+        "dragon tooth": 9,
+        "condensed grass": 88
+    },
+    "blastoise bush": {
+        "major seed bag": 4,
+        "squirtle hull": 40,
+        "condensed grass": 88
+    },
+    "swellow bush": {
+        "major seed bag": 4,
+        "crimson feather": 44,
+        "condensed grass": 88
+    },
+    "scyther bush": {
+        "major seed bag": 4,
+        "scythe": 5,
+        "condensed grass": 88
+    },
+    "raichu bush": {
+        "major seed bag": 4,
+        "electric rat tail": 40,
+        "condensed grass": 88
+    },
+    "pidgeot bush": {
+        "major seed bag": 4,
+        "colored feather": 31,
+        "condensed grass": 88
+    },
+    "machamp bush": {
+        "major seed bag": 4,
+        "belt of champion": 5,
+        "condensed grass": 88
+    },
+    "lucario bush": {
+        "major seed bag": 4,
+        "samurai hair": 52,
+        "condensed grass": 88
+    },
+    "jynx bush": {
+        "major seed bag": 4,
+        "ice bra": 5,
+        "condensed grass": 88
+    },
+    "gengar bush": {
+        "major seed bag": 4,
+        "traces of ghost": 30,
+        "condensed grass": 88
+    },
+    "alakazam bush": {
+        "major seed bag": 4,
+        "psychic spoon": 30,
+        "condensed grass": 88
+    },
+    "pokedex chip 3.0": {
+        "pokedex chip 2.0": 1,
+        "smartphone": 1,
+        "steelix tail": 2,
+        "nature energy": 80
+    },
+    "hyper potion (100x)": {
+        "water gem": 250,
+        "essence of fire": 250,
+        "pot of lava": 80,
+        "condensed grass": 13
+    },
+    "revive (100x)": {
+        "great petal": 50,
+        "future orb": 100,
+        "pecha seed": 2,
+        "rawst seed": 2,
+        "condensed grass": 80
+    },
+    "chilan seed": {
+        "major seed bag": 1,
+        "cow tail": 6,
+        "condensed grass": 20
+    },
+    "babiri seed": {
+        "major seed bag": 1,
+        "metal hull": 5,
+        "condensed grass": 20
+    },
+    "colbur seed": {
+        "major seed bag": 1,
+        "hyena tail": 7,
+        "condensed grass": 20
+    },
+    "roseli seed": {
+        "major seed bag": 1,
+        "cure flower": 7,
+        "condensed grass": 20
+    },
+    "haban seed": {
+        "major seed bag": 1,
+        "dragon tail": 2,
+        "condensed grass": 20
+    },
+    "kasib seed": {
+        "major seed bag": 1,
+        "miss trace": 3,
+        "condensed grass": 20
+    },
+    "charti seed": {
+        "major seed bag": 1,
+        "strange rock": 6,
+        "condensed grass": 20
+    },
+    "tanga seed": {
+        "major seed bag": 1,
+        "scythe": 1,
+        "condensed grass": 20
+    },
+    "payapa seed": {
+        "major seed bag": 1,
+        "strange wing": 6,
+        "condensed grass": 20
+    },
+    "coba seed": {
+        "major seed bag": 1,
+        "colored feather": 6,
+        "condensed grass": 20
+    },
+    "shuca seed": {
+        "major seed bag": 1,
+        "armadillo claw": 7,
+        "condensed grass": 20
+    },
+    "kebia seed": {
+        "major seed bag": 1,
+        "poisonous tail": 8,
+        "condensed grass": 20
+    },
+    "chople seed": {
+        "major seed bag": 1,
+        "belt of champion": 1,
+        "condensed grass": 20
+    },
+    "yache seed": {
+        "major seed bag": 1,
+        "ice blocks": 10,
+        "condensed grass": 20
+    },
+    "rindo seed": {
+        "major seed bag": 1,
+        "greens": 8,
+        "condensed grass": 20
+    },
+    "wacan seed": {
+        "major seed bag": 1,
+        "sheep wool": 8,
+        "condensed grass": 20
+    },
+    "passho seed": {
+        "major seed bag": 1,
+        "red scale": 8,
+        "condensed grass": 20
+    },
+    "occa seed": {
+        "major seed bag": 1,
+        "hot fur": 8,
+        "condensed grass": 20
+    },
+    "pokedex (3rd gen)": {
+        "sharp leaves": 40,
+        "eruption ears": 50,
+        "mediling": 35,
+        "doll star": 35,
+        "nature energy": 120
+    },
+    "pokedex (4th gen)": {
+        "tech ball": 2,
+        "ghost skull": 80,
+        "nature energy": 120
+    },
+    "blank book": {
+        "document": 1,
+        "home picture": 1,
+        "big seed": 16,
+        "condensed grass": 40
+    },
+    "lesson board": {
+        "document": 1,
+        "farfetch'd stick": 5,
+        "strange thing": 20,
+        "martial arts scroll": 30,
+        "condensed grass": 80
+    },
+    "wall plate": {
+        "document": 1,
+        "farfetch'd stick": 5,
+        "owl feather": 60,
+        "condensed grass": 80
+    },
+    "wall bookcase": {
+        "blank book": 1,
+        "insect claw": 12,
+        "condensed grass": 80
+    },
+    "bookcase": {
+        "blank book": 1,
+        "wooden stand": 1
+    },
+    "desk": {
+        "bookcase": 1,
+        "classic bookcase": 1
+    },
+    "shamouti plant": {
+        "empty vase": 1,
+        "major seed bag": 1,
+        "bull tail": 10,
+        "greens": 25,
+        "condensed grass": 40
+    },
+    "shamouti big plant": {
+        "empty vase": 1,
+        "shamouti plant": 1,
+        "owl feather": 20,
+        "strange flower": 25,
+        "great petal": 12,
+        "condensed grass": 120
+    },
+    "steelix bush": {
+        "major seed bag": 6,
+        "steelix tail": 8,
+        "condensed grass": 180
+    },
+    "scizor bush": {
+        "major seed bag": 6,
+        "scizor claw": 8,
+        "condensed grass": 180
+    },
+    "magmar bush": {
+        "major seed bag": 6,
+        "magma foot": 15,
+        "condensed grass": 180
+    },
+    "electabuzz bush": {
+        "major seed bag": 6,
+        "electric tail": 15,
+        "condensed grass": 180
+    },
+    "lapras bush": {
+        "major seed bag": 6,
+        "ski poles": 4,
+        "snow skis": 4,
+        "goggles": 4,
+        "giant fin": 15,
+        "condensed grass": 180
+    },
+    "heracross bush": {
+        "major seed bag": 6,
+        "insect claw": 83,
+        "condensed grass": 180
+    },
+    "gyarados bush": {
+        "major seed bag": 6,
+        "gyarados tail": 18,
+        "condensed grass": 180
+    },
+    "dragonite bush": {
+        "major seed bag": 6,
+        "dragon tail": 33,
+        "condensed grass": 180
+    },
+    "mega scizor bush": {
+        "major seed bag": 6,
+        "scizor claw": 8,
+        "cocoon stone": 1,
+        "condensed grass": 220
+    },
+    "mega lucario bush": {
+        "major seed bag": 6,
+        "martial arts scroll": 88,
+        "punch stone": 1,
+        "condensed grass": 220
+    },
+    "tron student monitor": {
+        "tech ball": 4,
+        "steel wing": 200,
+        "nature energy": 400
+    },
+    "condensed strong grass": {
+        "pure strong grass": 100
+    },
+    "strong nature energy": {
+        "pure strong grass": 100
+    },
+    "pure strong grass (100x)": {
+        "high tech chip": 1
+    },
+    "ultimate potion (100x)": {
+        "psychic spoon": 17,
+        "future orb": 200,
+        "pure strong grass": 40
+    },
+    "restore potion (100x)": {
+        "doll star": 20,
+        "ice orb": 30,
+        "crimson feather": 25,
+        "pure strong grass": 40
+    },
+    "max revive (100x)": {
+        "earth stone": 1,
+        "water stone": 1,
+        "condensed strong grass": 1,
+        "pure strong grass": 10
+    },
+    "strong green gem (10x)": {
+        "glacial herb": 5,
+        "nature herb": 5,
+        "water pendant": 50,
+        "pure strong grass": 40
+    },
+    "segway": {
+        "metal hull": 250,
+        "metal stone": 4,
+        "topaz": 15,
+        "giant piece of fur": 50,
+        "strange spike": 170,
+        "sheep wool": 250,
+        "zap": 25,
+        "locksmith of shell": 10,
+        "condensed strong grass": 50
+    },
+    "soul source": {
+        "green piece of coral": 20,
+        "pink small tail": 5,
+        "blue gem star": 20,
+        "blue fish fin": 20,
+        "big crystal": 5,
+        "mystic star": 1,
+        "condensed strong grass": 5
+    },
+    "lum seed": {
+        "major seed bag": 1,
+        "medicine": 100,
+        "pure strong grass": 20
+    },
+    "sitrus seed": {
+        "major seed bag": 1,
+        "mushroom": 8,
+        "pure strong grass": 20
+    },
+    "pokedex (5th gen)": {
+        "pokedex (1st gen)": 1,
+        "pokedex (3rd gen)": 1,
+        "strong nature energy": 2
+    },
+    "pokedex (6th gen)": {
+        "pokedex (2nd gen)": 1,
+        "pokedex (4th gen)": 1,
+        "strong nature energy": 2
+    },
+    "classic lesson board": {
+        "old beard": 2,
+        "water plant": 50,
+        "lesson board": 1,
+        "condensed strong grass": 2
+    },
+    "classic wall bookcase": {
+        "scythe": 4,
+        "sharp leaves": 50,
+        "wall bookcase": 1,
+        "condensed strong grass": 2
+    },
+    "writer desk": {
+        "bookcase": 1,
+        "blank book": 1,
+        "classic bookcase": 1,
+        "rustic balcony": 1,
+        "wooden stand": 1,
+        "classic furniture": 1,
+        "classic dresser": 1,
+        "ancient stone": 4
+    },
+    "blue poke ball holder": {
+        "blue microscope": 1,
+        "blue globe": 1,
+        "tech ball": 10,
+        "strong nature energy": 12
+    },
+    "red poke ball holder": {
+        "red microscope": 1,
+        "red globe": 1,
+        "mini wings": 15,
+        "strong nature energy": 12
+    },
+    "green poke ball holder": {
+        "green microscope": 1,
+        "green globe": 1,
+        "palm leaves": 62,
+        "strong nature energy": 12
+    },
+    "classic poke ball holder": {
+        "diamond": 5,
+        "mystic star": 2,
+        "boost stone": 1,
+        "slow tail": 45,
+        "strong nature energy": 24
+    },
+    "japanese bonsai": {
+        "empty vase": 1,
+        "palm leaves": 20,
+        "sand tail": 50,
+        "water plant": 40,
+        "mystic flower": 30,
+        "condensed strong grass": 2
+    },
+    "suicune bush": {
+        "major seed bag": 12,
+        "strange spike": 180,
+        "seal tail": 160,
+        "condensed strong grass": 5
+    },
+    "raikou bush": {
+        "major seed bag": 12,
+        "sheep wool": 180,
+        "shock topknot": 180,
+        "condensed strong grass": 5
+    },
+    "entei bush": {
+        "major seed bag": 12,
+        "fire feather": 180,
+        "nu ball": 240,
+        "condensed strong grass": 5
+    },
+    "mewtwo bush": {
+        "major seed bag": 24,
+        "dark moon": 36,
+        "linearly guided hypnosis": 120,
+        "condensed strong grass": 10
+    },
+    "mew bush": {
+        "major seed bag": 24,
+        "beautiful scales": 5,
+        "mimic clothes": 95,
+        "condensed strong grass": 10
+    },
+    "zapdos bush": {
+        "major seed bag": 12,
+        "strange wing": 130,
+        "electric tail": 24,
+        "condensed strong grass": 5
+    },
+    "arceus bush": {
+        "major seed bag": 30,
+        "linearly guided hypnosis": 145,
+        "springs": 600,
+        "condensed strong grass": 12
+    },
+    "yellow alchemy lab": {
+        "glass": 50,
+        "boost stone": 1,
+        "electric rat tail": 150,
+        "strong nature energy": 8
+    },
+    "cyan alchemy lab": {
+        "glass": 50,
+        "crystal stone": 2,
+        "zap": 10,
+        "strong nature energy": 8
+    },
+    "purple alchemy lab": {
+        "glass": 50,
+        "ancient stone": 2,
+        "crimson feather": 180,
+        "strong nature energy": 8
+    },
+    "red alchemy lab": {
+        "glass": 50,
+        "boost stone": 1,
+        "lobster claw": 150,
+        "strong nature energy": 8
+    },
+    "white student monitor": {
+        "steel wing": 400,
+        "giant piece of fur": 100,
+        "cloud": 200,
+        "strong nature energy": 8
+    },
+    "volcanic chemical": {
+        "pure strong grass": 40,
+        "pot of lava": 35,
+        "fire feather": 25,
+        "fire tail": 5,
+        "compressed fire": 5,
+        "magma foot": 1
+    },
+    "seavell chemical": {
+        "pure strong grass": 40,
+        "water pendant": 30,
+        "water plant": 15,
+        "ice orb": 30,
+        "ice blocks": 20,
+        "ice bra": 1
+    },
+    "naturia chemical": {
+        "pure strong grass": 40,
+        "leaves": 30,
+        "palm leaves": 1,
+        "pot of moss bug": 20,
+        "insect claw": 10,
+        "greens": 15,
+        "scythe": 1
+    },
+    "raibolt chemical": {
+        "pure strong grass": 40,
+        "electric box": 10,
+        "shock topknot": 20,
+        "electric rat tail": 8,
+        "sheep wool": 8,
+        "electric tail": 1
+    },
+    "psycraft chemical": {
+        "pure strong grass": 40,
+        "future orb": 30,
+        "linearly guided hypnosis": 2,
+        "mediling": 30,
+        "strange wing": 8
+    },
+    "malefic chemical": {
+        "pure strong grass": 40,
+        "traces of ghost": 10,
+        "big crystal": 1,
+        "poisonous tail": 25
+    },
+    "gardestrike chemical": {
+        "pure strong grass": 40,
+        "martial arts scroll": 6,
+        "cow tail": 10,
+        "eruption ears": 14,
+        "belt of champion": 1,
+        "cute ball": 14
+    },
+    "orebound chemical": {
+        "pure strong grass": 40,
+        "stone orb": 25,
+        "horn drill": 10,
+        "strange rock": 8,
+        "bone": 22
+    },
+    "wingeon chemical": {
+        "pure strong grass": 40,
+        "feather": 40,
+        "colored feather": 13,
+        "owl feather": 15,
+        "bird beak": 25,
+        "dragon tooth": 1
+    },
+    "ironhard chemical": {
+        "pure strong grass": 40,
+        "metal hull": 16,
+        "compressed steel": 25,
+        "steel wing": 6
+    },
+    "mecha chip": {
+        "metal jaw": 200,
+        "bone shield": 2,
+        "pawn": 200,
+        "gem star": 30,
+        "metal stone": 1,
+        "strong nature energy": 12
+    },
+    "gardestrike materia": {
+        "heart stone": 2,
+        "punch stone": 2,
+        "gardestrike chemical": 1
+    },
+    "gardestrike enhanced materia": {
+        "heart stone": 7,
+        "punch stone": 8,
+        "gardestrike chemical": 1
+    },
+    "gardestrike superior materia": {
+        "kermes shard": 1,
+        "gardestrike chemical": 1
+    },
+    "gardestrike mastered materia": {
+        "kermes shard": 1,
+        "heart stone": 5,
+        "punch stone": 5,
+        "gardestrike chemical": 3
+    },
+	"volcanic materia": {
+		"fire stone": 4,
+		"volcanic chemical": 1
+	},
+	"volcanic enhanced materia": {
+		"fire stone": 15,
+		"volcanic chemical": 1
+	},
+	"volcanic superior materia": {
+		"scarlet shard": 1,
+		"volcanic chemical": 1
+	},
+	"volcanic mastered materia": {
+		"scarlet shard": 10,
+		"fire stone": 10,
+		"volcanic chemical": 3
+	},
+	"ironhard materia": {
+		"metal stone": 1,
+		"ironhard chemical": 1
+	},
+	"ironhard enhanced materia": {
+		"metal stone": 2,
+		"ironhard chemical": 1
+	},
+	"ironhard superior materia": {
+		"kermes shard": 1,
+		"gardestrike chemical": 1
+	},
+	"ironhard mastered materia": {
+		"slate shard": 1,
+		"metal stone": 1,
+		"ironhard chemical": 3
+	},
+	"malefic materia": {
+		"venom stone": 2,
+		"darkness stone": 2,
+		"malefic chemical": 1
+	},
+	"malefic enhanced materia": {
+		"venom stone": 7,
+		"darkness stone": 8,
+		"malefic chemical": 1
+	},
+	"malefic superior materia": {
+		"damson shard": 1,
+		"malefic chemical": 1
+	},
+	"malefic mastered materia": {
+		"damson shard": 1,
+		"venom stone": 5,
+		"darkness stone": 5,
+		"malefic chemical": 3
+	},
+	"naturia materia": {
+		"leaf stone": 2,
+		"cocoon stone": 2,
+		"naturia chemical": 1
+	},
+	"naturia enhanced materia": {
+		"leaf stone": 7,
+		"cocoon stone": 8,
+		"naturia chemical": 2
+	},
+	"naturia superior materia": {
+		"harlequin shard": 1,
+		"naturia chemical": 1
+	},
+	"naturia mastered materia": {
+		"harlequin shard": 1,
+		"leaf stone": 5,
+		"cocoon stone": 5,
+		"naturia chemical": 3
+	},
+	"orebound materia": {
+		"rock stone": 2,
+		"earth stone": 2,
+		"orebound chemical": 1
+	},
+	"orebound enhanced materia": {
+		"rock stone": 7,
+		"earth stone": 8,
+		"orebound chemical": 1
+	},
+	"orebound superior materia": {
+		"indigo shard": 1,
+		"orebound chemical": 1
+	},
+	"orebound mastered materia": {
+		"indigo shard": 1,
+		"rock stone": 5,
+		"earth stone": 5,
+		"orebound chemical": 3
+	},
+	"psycraft materia": {
+		"enigma stone": 4,
+		"psycraft chemical": 1
+	},
+	"psycraft enhanced materia": {
+		"enigma stone": 15,
+		"psycraft chemical": 1
+	},
+	"psycraft superior materia": {
+		"cerise shard": 1,
+		"psycraft chemical": 1
+	},
+	"psycraft mastered materia": {
+		"cerise shard": 1,
+		"enigma stone": 10,
+		"psycraft chemical": 3
+	},
+	"raibolt materia": {
+		"thunder stone": 4,
+		"raibolt chemical": 1
+	},
+	"raibolt enhanced materia": {
+		"thunder stone": 15,
+		"raibolt chemical": 1
+	},
+	"raibolt superior materia": {
+		"sunflower shard": 1,
+		"raibolt chemical": 1
+	},
+	"raibolt mastered materia": {
+		"sunflower shard": 1,
+		"thunder stone": 10,
+		"raibolt chemical": 3
+	},
+	"seavell materia": {
+		"water stone": 2,
+		"ice stone": 2,
+		"seavell chemical": 1
+	},
+	"seavell enhanced materia": {
+		"water stone": 7,
+		"ice stone": 8,
+		"seavell chemical": 1
+	},
+	"seavell superior materia": {
+		"azure shard": 1,
+		"seavell chemical": 1
+	},
+	"seavell mastered materia": {
+		"azure shard": 1,
+		"water stone": 5,
+		"ice stone": 5,
+		"seavell chemical": 3
+	},
+	"wingeon materia": {
+		"feather stone": 4,
+		"wingeon chemical": 1
+	},
+	"wingeon enhanced materia": {
+		"feather stone": 5,
+		"crystal stone": 1,
+		"wingeon chemical": 1
+	},
+	"wingeon superior materia": {
+		"shell shard": 1,
+		"wingeon chemical": 1
+	},
+	"wingeon mastered materia": {
+		"shell shard": 1,
+		"crystal stone": 1,
+		"wingeon chemical": 3
+	}
+}
