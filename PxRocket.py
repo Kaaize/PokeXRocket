@@ -28,7 +28,7 @@ class Ui(QtWidgets.QMainWindow):
         uic.loadUi('main.ui', self) # Load the .ui file
         self.searchWindow = uic.loadUi('search.ui')
         self.show() # Show the GUI
-        self.setWindowIcon(QtGui.QIcon(resource_path('icon.ico')))
+        #self.setWindowIcon(QtGui.QIcon(resource_path('icon.ico')))
 
         self.edtBoost.valueChanged.connect(self.CalcularBoost)
         self.edtAtual.valueChanged.connect(self.CalcularBoost)
@@ -63,16 +63,17 @@ class Ui(QtWidgets.QMainWindow):
         self.Search()
 
     def SearchUse(self):
-
-        self.usesList.setRowCount(0)
-        for key, value in crafts.items():
-            if value.get(self.edtItemName.text().lower()):
-
-                row = self.usesList.rowCount()
-                col = self.usesList.columnCount()
-                self.usesList.insertRow(row)
-                self.usesList.setItem(row-1, col, QtWidgets.QTableWidgetItem(key))
-                self.usesList.setItem(row-1, col+1, QtWidgets.QTableWidgetItem(str(value[self.edtItemName.text()])))
+        try:
+            self.usesList.setRowCount(0)
+            for key, value in crafts.items():
+                if value.get(self.edtItemName.text().lower()):
+                    row = self.usesList.rowCount()
+                    col = self.usesList.columnCount()
+                    self.usesList.insertRow(row)
+                    self.usesList.setItem(row-1, col, QtWidgets.QTableWidgetItem(key))
+                    self.usesList.setItem(row-1, col+1, QtWidgets.QTableWidgetItem(str(value[self.edtItemName.text().lower()])))
+        except Exception as E:
+            QtWidgets.QMessageBox.warning(self, "ERRO", str(E))
 
 
     def Search(self):

@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>icon.ico</normaloff>icon.ico</iconset>
+    <normaloff>icons/Power Source.png</normaloff>icons/Power Source.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
