@@ -26,8 +26,10 @@ class Ui(QtWidgets.QMainWindow):
     def __init__(self):
         super(Ui, self).__init__() # Call the inherited classes __init__ method
         uic.loadUi('main.ui', self) # Load the .ui file
+        self.searchWindow = uic.loadUi('search.ui')
         self.show() # Show the GUI
         self.setWindowIcon(QtGui.QIcon(resource_path('icon.ico')))
+
         self.edtBoost.valueChanged.connect(self.CalcularBoost)
         self.edtAtual.valueChanged.connect(self.CalcularBoost)
         self.edtAlvo.valueChanged.connect(self.CalcularBoost)
@@ -38,14 +40,73 @@ class Ui(QtWidgets.QMainWindow):
         self.craftTable.itemChanged.connect(self.CalculaTotal)
         self.edtCraftName.returnPressed.connect(self.CreateBoost70)
         self.edtCraftQty.returnPressed.connect(self.CreateBoost70)
+        self.edtItemName.returnPressed.connect(self.SearchUse)
+
+        self.btnUsesList.clicked.connect(self.SearchUse)
+        self.searchWindow.btnSelecionar.clicked.connect(self.selecionado)
+        self.tab.setTabEnabled(3, False)
+        #self.edtCraftName.installEventFilter(self)
+
 
         header = self.craftTable.horizontalHeader()    
         header.resizeSection(0, 500)  
         header.resizeSection(1, 120)  
         header.resizeSection(2, 180)  
         header.resizeSection(3, 220)  
+
+        header = self.usesList.horizontalHeader()       
+        header.resizeSection(0, 700)  
+        header.resizeSection(1, 100)  
+
         self.craftAnterior = ''
         self.result = {}
+        self.Search()
+
+    def SearchUse(self):
+
+        self.usesList.setRowCount(0)
+        for key, value in crafts.items():
+            if value.get(self.edtItemName.text().lower()):
+
+                row = self.usesList.rowCount()
+                col = self.usesList.columnCount()
+                self.usesList.insertRow(row)
+                self.usesList.setItem(row-1, col, QtWidgets.QTableWidgetItem(key))
+                self.usesList.setItem(row-1, col+1, QtWidgets.QTableWidgetItem(str(value[self.edtItemName.text()])))
+
+
+    def Search(self):
+        names = list(crafts.keys())
+        model = QtGui.QStandardItemModel(len(names),1)
+        model.setHorizontalHeaderLabels(["CRAFT"])
+
+        for row, craft in enumerate(names):
+            item = QtGui.QStandardItem(craft)
+            model.setItem(row, 0, item)
+
+
+
+        filter_proxy_model = QtCore.QSortFilterProxyModel()
+        filter_proxy_model.setSourceModel(model)
+        filter_proxy_model.setFilterCaseSensitivity(QtCore.Qt.CaseInsensitive)
+        filter_proxy_model.setFilterKeyColumn(0)
+        self.searchWindow.edtSearch.textChanged.connect(filter_proxy_model.setFilterRegExp)
+        self.searchWindow.searchList.setModel(filter_proxy_model)
+
+        self.searchWindow.searchList.doubleClicked.connect(self.selecionado)
+
+    def selecionado(self):
+        model = self.searchWindow.searchList.model()
+        item = model.data(self.searchWindow.searchList.currentIndex())
+        self.edtCraftName.setText(item)
+        self.CreateBoost70()
+        self.searchWindow.close()
+
+    def keyPressEvent(self, event):
+        foc = QtWidgets.QApplication.focusWidget().objectName()
+        if event.key() == QtCore.Qt.Key_F2:
+            if foc == 'edtCraftName':
+                self.searchWindow.exec_()#show()
 
 
     def Calculate(self, craft, qty):
