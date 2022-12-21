@@ -46,7 +46,7 @@
        <enum>QTabWidget::Rounded</enum>
       </property>
       <property name="currentIndex">
-       <number>0</number>
+       <number>1</number>
       </property>
       <property name="iconSize">
        <size>
@@ -643,7 +643,14 @@
             <string>Craft:</string>
            </property>
           </widget>
-          <widget class="QLineEdit" name="edtCraftName"/>
+          <widget class="QLineEdit" name="edtCraftName">
+           <property name="toolTip">
+            <string>Pressione F2 para pesquisar</string>
+           </property>
+           <property name="toolTipDuration">
+            <number>-1</number>
+           </property>
+          </widget>
           <widget class="QLabel" name="label_17">
            <property name="sizePolicy">
             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
@@ -699,6 +706,9 @@
         </item>
         <item row="1" column="0">
          <widget class="QTableWidget" name="craftTable">
+          <property name="toolTipDuration">
+           <number>0</number>
+          </property>
           <property name="alternatingRowColors">
            <bool>true</bool>
           </property>
