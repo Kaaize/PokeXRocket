@@ -2,7 +2,7 @@ import AutoUpdate
 import os
 import sys
 import subprocess
-from PyQt5 import QtWidgets, uic, QtGui
+from PyQt5 import QtWidgets, uic, QtGui, QtCore
 import tempfile
 
 
@@ -15,7 +15,6 @@ class Ui(QtWidgets.QMainWindow):
         AutoUpdate.set_download_link("https://github.com/Kaaize/PokeXRocket/raw/main/PxRocket_Setup.exe")
         with open("version.txt", "r") as version:
             AutoUpdate.set_current_version(version.readline())
-      
         self.show() # Show the GUI
         self.update()
 
@@ -30,9 +29,9 @@ class Ui(QtWidgets.QMainWindow):
                 self.destroy()
         else:
             self.destroy()
-            subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])  
+            f = subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])  
 
-
+        sys.exit()
 
 
 
@@ -40,3 +39,4 @@ class Ui(QtWidgets.QMainWindow):
 app = QtWidgets.QApplication(sys.argv) # Create an instance of QtWidgets.QApplication
 window = Ui() # Create an instance of our class
 app.exec_() # Start the application
+window.setAttribute(QtCore.Qt.WA_QuitOnClose)

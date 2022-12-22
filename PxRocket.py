@@ -2,10 +2,6 @@ from PyQt5 import QtWidgets, uic, QtGui, QtCore
 import sys
 import os
 import json
-import subprocess
-
-subprocess.call([rf"{os.getcwd()}/updater.exe"])
-
 
 with open('crafts.json', 'r') as f:
     crafts = json.load(f)
