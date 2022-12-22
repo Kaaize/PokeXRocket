@@ -2,35 +2,36 @@ import AutoUpdate
 import os
 import sys
 import subprocess
-from PyQt5 import QtWidgets, uic
-from time import sleep
-
+from PyQt5 import QtWidgets, uic, QtGui
+import tempfile
 
 
 class Ui(QtWidgets.QMainWindow):
     def __init__(self):
         super(Ui, self).__init__() # Call the inherited classes __init__ method
         uic.loadUi('updater.ui', self) # Load the .ui file
+        
+        AutoUpdate.set_url("https://raw.githubusercontent.com/Kaaize/PokeXRocket/main/version.txt")
+        AutoUpdate.set_download_link("https://github.com/Kaaize/PokeXRocket/raw/main/PxRocket_Setup.exe")
+        with open("version.txt", "r") as version:
+            AutoUpdate.set_current_version(version.readline())
+      
         self.show() # Show the GUI
         self.update()
 
-        AutoUpdate.set_url("https://raw.githubusercontent.com/Kaaize/PokeXRocket/main/version.txt")
-
-        AutoUpdate.set_download_link("https://github.com/Kaaize/PokeXRocket/raw/main/PxRocket_Setup.exe")
-
-        with open("version.txt", "r") as version:
-            AutoUpdate.set_current_version(version.readline())
-
-
-
-            if not AutoUpdate.is_up_to_date():
+        if not AutoUpdate.is_up_to_date():
+            self.label.setText("Baixando Atualizações...")
+            QtGui.QGuiApplication.processEvents() 
+            with tempfile.TemporaryDirectory() as dirpath:
+                AutoUpdate.download(rf"{dirpath}/PxRocket_Setup.exe")
                 self.label.setText("Atualizando...")
-                AutoUpdate.download(os.getcwd()+'\\PxRocket_Setup.exe')
-                subprocess.call([rf"{os.getcwd()}\PxRocket_Setup.exe", "/VERYSILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS"])
-            else:
+                QtGui.QGuiApplication.processEvents() 
+                subprocess.call([rf"{dirpath}/PxRocket_Setup.exe", "/VERYSILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS", "/SUPPRESSMSGBOXES"])
                 self.destroy()
-                subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])  
+        else:
             self.destroy()
+            subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])  
+
 
 
 
