@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="images">
-    <file alias="soul_source">icons/soul source.png</file>
-    <file alias="boost_stone">icons/boost stone.png</file>
-    <file alias="naturia_chemical">icons/naturia chemical.png</file>
-    <file alias="icon">icon.ico</file>
-    <file alias="boss_detector">icons/boss detector.png</file>
-  </qresource>
-</RCC>
