@@ -25,11 +25,11 @@ class Ui(QtWidgets.QMainWindow):
                 AutoUpdate.download(rf"{dirpath}/PxRocket_Setup.exe")
                 self.label.setText("Atualizando...")
                 QtGui.QGuiApplication.processEvents() 
-                subprocess.call([rf"{dirpath}/PxRocket_Setup.exe", "/VERYSILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS", "/SUPPRESSMSGBOXES"])
+                subprocess.Popen([rf"{dirpath}/PxRocket_Setup.exe", "/VERYSILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS", "/SUPPRESSMSGBOXES"])
                 self.destroy()
         else:
             self.destroy()
-            f = subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])  
+            subprocess.Popen([rf"{os.getcwd()}\PxRocket.exe"])  
 
         sys.exit()
 
@@ -39,4 +39,3 @@ class Ui(QtWidgets.QMainWindow):
 app = QtWidgets.QApplication(sys.argv) # Create an instance of QtWidgets.QApplication
 window = Ui() # Create an instance of our class
 app.exec_() # Start the application
-window.setAttribute(QtCore.Qt.WA_QuitOnClose)

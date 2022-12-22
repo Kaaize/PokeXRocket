@@ -2,6 +2,8 @@ from PyQt5 import QtWidgets, uic, QtGui, QtCore
 import sys
 import os
 import json
+import subprocess
+from time import sleep
 
 with open('crafts.json', 'r') as f:
     crafts = json.load(f)
@@ -28,6 +30,8 @@ class Ui(QtWidgets.QMainWindow):
         self.searchWindow = uic.loadUi('search.ui')
         self.show() # Show the GUI
         #self.setWindowIcon(QtGui.QIcon(resource_path('icon.ico')))
+
+        self.actionAtualizar.triggered.connect(self.Atualizar)
 
         self.edtBoost.valueChanged.connect(self.CalcularBoost)
         self.edtAtual.valueChanged.connect(self.CalcularBoost)
@@ -60,6 +64,10 @@ class Ui(QtWidgets.QMainWindow):
         self.craftAnterior = ''
         self.result = {}
         self.Search()
+
+    def Atualizar(self):
+        subprocess.Popen(['updater.exe'], shell=True)
+        sys.exit(0)  
 
     def SearchUse(self):
         try:

@@ -46,7 +46,7 @@
        <enum>QTabWidget::Rounded</enum>
       </property>
       <property name="currentIndex">
-       <number>1</number>
+       <number>2</number>
       </property>
       <property name="iconSize">
        <size>
@@ -609,7 +609,7 @@
       <widget class="QWidget" name="tbBoost2">
        <attribute name="icon">
         <iconset>
-         <normaloff>icons/gardestrike chemical.png</normaloff>icons/gardestrike chemical.png</iconset>
+         <normaloff>icons/naturia chemical.png</normaloff>icons/naturia chemical.png</iconset>
        </attribute>
        <attribute name="title">
         <string>Crafts / Boost 70</string>
@@ -1218,7 +1218,40 @@
     </item>
    </layout>
   </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1069</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuAtualizar">
+    <property name="layoutDirection">
+     <enum>Qt::RightToLeft</enum>
+    </property>
+    <property name="tearOffEnabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>Opções</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>false</bool>
+    </property>
+    <addaction name="actionAtualizar"/>
+   </widget>
+   <addaction name="menuAtualizar"/>
+  </widget>
+  <action name="actionAtualizar">
+   <property name="text">
+    <string>Atualizar</string>
+   </property>
+  </action>
  </widget>
- <resources/>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
  <connections/>
 </ui>
