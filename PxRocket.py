@@ -4,6 +4,7 @@ import os
 import json
 import subprocess
 from time import sleep
+import AutoUpdate
 
 with open('crafts.json', 'r') as f:
     crafts = json.load(f)
@@ -66,8 +67,15 @@ class Ui(QtWidgets.QMainWindow):
         self.Search()
 
     def Atualizar(self):
-        subprocess.Popen(['updater.exe'], shell=True)
-        sys.exit(0)  
+        AutoUpdate.set_url("https://raw.githubusercontent.com/Kaaize/PokeXRocket/main/version.txt")
+
+        with open("version.txt", "r") as version:
+            AutoUpdate.set_current_version(version.readline())
+        if not AutoUpdate.is_up_to_date():
+            subprocess.Popen(['updater.exe'], shell=True)
+            sys.exit(0)
+        else:
+            QtWidgets.QMessageBox.information(self, "Atualizado", "Não há atualizações disponiveis.")
 
     def SearchUse(self):
         try:
