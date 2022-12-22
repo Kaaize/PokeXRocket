@@ -16,7 +16,7 @@ class Ui(QtWidgets.QMainWindow):
 
         AutoUpdate.set_url("https://raw.githubusercontent.com/Kaaize/PokeXRocket/main/version.txt")
 
-        AutoUpdate.set_download_link("https://github.com/Kaaize/PokeXRocket/raw/main/PxRocket.exe")
+        AutoUpdate.set_download_link("https://github.com/Kaaize/PokeXRocket/raw/main/PxRocket_Setup.exe")
 
         with open("version.txt", "r") as version:
             AutoUpdate.set_current_version(version.readline())
@@ -25,11 +25,13 @@ class Ui(QtWidgets.QMainWindow):
 
             if not AutoUpdate.is_up_to_date():
                 self.label.setText("Atualizando...")
-                self.label.update()
-                AutoUpdate.download(os.getcwd()+'\\PxRocket.exe')
+                AutoUpdate.download(os.getcwd()+'\\PxRocket_Setup.exe')
+                subprocess.call([rf"{os.getcwd()}\PxRocket_Setup.exe", "/VERYSILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS"])
             else:
                 self.destroy()
-                subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])
+                subprocess.call([rf"{os.getcwd()}\PxRocket.exe"])  
+            self.destroy()
+
 
 
 
