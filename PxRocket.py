@@ -140,7 +140,7 @@ class Ui(QtWidgets.QMainWindow):
             qty= int(qty)
         infos = self.Calculate(craft, qty)
         if not infos:
-            QtWidgets.QMessageBox.warning(self, "Erro","Craft não encontrado")
+            self.searchWindow.show()
             return
         if infos == -1:
             return
