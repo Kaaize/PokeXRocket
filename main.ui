@@ -528,6 +528,9 @@
                <pointsize>15</pointsize>
               </font>
              </property>
+             <property name="focusPolicy">
+              <enum>Qt::WheelFocus</enum>
+             </property>
              <property name="styleSheet">
               <string notr="true">background-color: rgb(255, 255, 127);</string>
              </property>
@@ -796,6 +799,12 @@
              <property name="keyboardTracking">
               <bool>false</bool>
              </property>
+             <property name="maximum">
+              <number>1000000000</number>
+             </property>
+             <property name="value">
+              <number>1</number>
+             </property>
             </widget>
            </item>
            <item>
@@ -1044,7 +1053,7 @@
       <widget class="QWidget" name="tbCelebi">
        <attribute name="icon">
         <iconset>
-         <normaloff>../../../../Program Files (x86)/PxRocket/icons/digital clock.png</normaloff>../../../../Program Files (x86)/PxRocket/icons/digital clock.png</iconset>
+         <normaloff>icons/digital clock.png</normaloff>icons/digital clock.png</iconset>
        </attribute>
        <attribute name="title">
         <string>Celebi Decoder</string>
@@ -2478,6 +2487,38 @@
    </property>
   </action>
  </widget>
+ <tabstops>
+  <tabstop>edtBoost</tabstop>
+  <tabstop>edtPreco</tabstop>
+  <tabstop>edtAtual</tabstop>
+  <tabstop>edtAlvo</tabstop>
+  <tabstop>cbBonus</tabstop>
+  <tabstop>tab</tabstop>
+  <tabstop>edtStones</tabstop>
+  <tabstop>edtPrecoTotal</tabstop>
+  <tabstop>edtCraftName</tabstop>
+  <tabstop>edtCraftQty</tabstop>
+  <tabstop>btnCalcular</tabstop>
+  <tabstop>craftTable</tabstop>
+  <tabstop>edtTotal</tabstop>
+  <tabstop>edtItemName</tabstop>
+  <tabstop>btnUsesList</tabstop>
+  <tabstop>usesList</tabstop>
+  <tabstop>edtCelebiX</tabstop>
+  <tabstop>edtCelebiY</tabstop>
+  <tabstop>edtCelebiCod</tabstop>
+  <tabstop>btnCelebiDecode</tabstop>
+  <tabstop>edtCelebiRX1</tabstop>
+  <tabstop>edtCelebiRY1</tabstop>
+  <tabstop>edtCelebiRX2</tabstop>
+  <tabstop>edtCelebiRY2</tabstop>
+  <tabstop>edtCelebiRX3</tabstop>
+  <tabstop>edtCelebiRY3</tabstop>
+  <tabstop>edtCelebiRX4</tabstop>
+  <tabstop>edtCelebiRY4</tabstop>
+  <tabstop>edtCelebiRX5</tabstop>
+  <tabstop>edtCelebiRY5</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>

@@ -147,8 +147,8 @@ class Ui(QtWidgets.QMainWindow):
         result = {}
         craft = self.edtCraftName.text().lower()
         
-        qty = self.edtCraftQty.text()
-        if qty == '':
+        qty = self.edtCraftQty.value()
+        if qty < 1:
             qty = 1
         else:
             qty= int(qty)
