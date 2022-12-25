@@ -43,14 +43,13 @@ class Ui(QtWidgets.QMainWindow):
         self.btnCalcular.clicked.connect(self.CreateBoost70)
         self.craftTable.itemChanged.connect(self.CalculaTotal)
         self.edtCraftName.returnPressed.connect(self.CreateBoost70)
-        self.edtCraftQty.returnPressed.connect(self.CreateBoost70)
+        self.edtCraftQty.valueChanged.connect(self.CreateBoost70)
         self.edtItemName.returnPressed.connect(self.SearchUse)
 
         self.btnUsesList.clicked.connect(self.SearchUse)
         self.searchWindow.btnSelecionar.clicked.connect(self.selecionado)
-        self.tab.setTabEnabled(3, False)
         #self.edtCraftName.installEventFilter(self)
-
+        self.btnCelebiDecode.clicked.connect(self.CelebiDecoder)
 
         header = self.craftTable.horizontalHeader()    
         header.resizeSection(0, 500)  
@@ -221,6 +220,48 @@ class Ui(QtWidgets.QMainWindow):
             if bonus == True and i < 9:
                 skip += 1
         return stones
+        
+    def CelebiDecoder(self) -> str:
+        for i in range(5):
+            rx = self.findChild(QtWidgets.QSpinBox, f"edtCelebiRX{i+1}")
+            ry = self.findChild(QtWidgets.QSpinBox, f"edtCelebiRY{i+1}")
+            rx.setValue(0)
+            ry.setValue(0)
+        if self.edtCelebiCod.text() == '':
+            return
+
+        try:
+            startx = self.edtCelebiX.value()
+            starty = self.edtCelebiY.value()
+            code = self.edtCelebiCod.text()
+            posx = []
+            posy = []
+            var = ''
+            for i in range(0,len(code)):
+                if not code[i].isdigit():
+                    posx.append(code[i])
+                    if i != 0:
+                        posy.append(var)
+                    var = ''
+                else:
+                    var += code[i]
+            posy.append(var)
+            code = posx,posy
+            coords = []
+            for i in range(5):
+
+                x = ord(code[0][i])-96-1
+                y = int(code[1][i])-1
+                rx = self.findChild(QtWidgets.QSpinBox, f"edtCelebiRX{i+1}")
+                ry = self.findChild(QtWidgets.QSpinBox, f"edtCelebiRY{i+1}")
+                rx.setValue(startx+x)
+                ry.setValue(starty+y)
+                coords.append(f"X: {startx+x} Y: {starty+y}")
+            
+        except:
+            QtWidgets.QMessageBox.warning(self, "Erro", "Não foi possível decodificar corretamente esse código.\n verifique as informações e tente novamente")
+
+            
     
 
     

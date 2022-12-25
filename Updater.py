@@ -17,13 +17,13 @@ class Ui(QtWidgets.QMainWindow):
         self.label.setText("Baixando Atualizações...")
         QtGui.QGuiApplication.processEvents() 
 
-        with tempfile.TemporaryDirectory() as dirpath:
+        with tempfile.TemporaryDirectory(ignore_cleanup_errors=True) as dirpath:
             AutoUpdate.download(rf"{dirpath}/PxRocket_Setup.exe")
             self.label.setText("Atualizando...")
             QtGui.QGuiApplication.processEvents() 
-            subprocess.Popen([rf"{dirpath}/PxRocket_Setup.exe", "/SILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS", "/SUPPRESSMSGBOXES"])
+            subprocess.Popen([rf"{dirpath}/PxRocket_Setup.exe", "/VERYSILENT", "/CURRENTUSER", "/FORCECLOSEAPPLICATIONS", "/SUPPRESSMSGBOXES"])
             self.destroy()
-            sys.exit()
+        sys.exit()
 
 
 
