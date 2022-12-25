@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1069</width>
-    <height>734</height>
+    <height>728</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -57,7 +57,7 @@
        <enum>QTabWidget::Rounded</enum>
       </property>
       <property name="currentIndex">
-       <number>0</number>
+       <number>3</number>
       </property>
       <property name="iconSize">
        <size>
@@ -1044,7 +1044,7 @@
       <widget class="QWidget" name="tbCelebi">
        <attribute name="icon">
         <iconset>
-         <normaloff>../../../../Program Files (x86)/PxRocket/icons/goldenkey.png</normaloff>../../../../Program Files (x86)/PxRocket/icons/goldenkey.png</iconset>
+         <normaloff>../../../../Program Files (x86)/PxRocket/icons/digital clock.png</normaloff>../../../../Program Files (x86)/PxRocket/icons/digital clock.png</iconset>
        </attribute>
        <attribute name="title">
         <string>Celebi Decoder</string>
