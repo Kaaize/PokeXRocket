@@ -12,7 +12,7 @@ with open('crafts.json', 'r') as f:
 with open('items.json', 'r') as f:
     items = json.load(f)
 
-
+result = {}
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
@@ -28,7 +28,8 @@ class Ui(QtWidgets.QMainWindow):
     def __init__(self):
         super(Ui, self).__init__() # Call the inherited classes __init__ method
         uic.loadUi('main.ui', self) # Load the .ui file
-        self.searchWindow = uic.loadUi('search.ui')
+        self.searchCraft = uic.loadUi('search.ui')
+        self.searchItem = uic.loadUi('searchitem.ui')
         self.show() # Show the GUI
         #self.setWindowIcon(QtGui.QIcon(resource_path('icon.ico')))
 
@@ -40,14 +41,14 @@ class Ui(QtWidgets.QMainWindow):
         self.edtPreco.valueChanged.connect(self.CalcularBoost)
         self.cbBonus.stateChanged.connect(self.CalcularBoost)
         self.CalcularBoost()
-        self.btnCalcular.clicked.connect(self.CreateBoost70)
+        self.btnCalcular.clicked.connect(self.CreateCraft)
         self.craftTable.itemChanged.connect(self.CalculaTotal)
-        self.edtCraftName.returnPressed.connect(self.CreateBoost70)
-        self.edtCraftQty.valueChanged.connect(self.CreateBoost70)
+        self.edtCraftName.returnPressed.connect(self.CreateCraft)
+        self.edtCraftQty.valueChanged.connect(self.CreateCraft)
         self.edtItemName.returnPressed.connect(self.SearchUse)
 
         self.btnUsesList.clicked.connect(self.SearchUse)
-        self.searchWindow.btnSelecionar.clicked.connect(self.selecionado)
+        self.searchCraft.btnSelecionar.clicked.connect(self.selecionado)
         #self.edtCraftName.installEventFilter(self)
         self.btnCelebiDecode.clicked.connect(self.CelebiDecoder)
 
@@ -63,7 +64,11 @@ class Ui(QtWidgets.QMainWindow):
 
         self.craftAnterior = ''
         self.result = {}
+
+        #Adicionar os itens/crafts na lista de pesquisa
+        self.SearchItem()
         self.Search()
+
 
     def Atualizar(self):
         AutoUpdate.set_url("https://raw.githubusercontent.com/Kaaize/PokeXRocket/main/version.txt")
@@ -86,11 +91,15 @@ class Ui(QtWidgets.QMainWindow):
                     self.usesList.insertRow(row)
                     self.usesList.setItem(row-1, col, QtWidgets.QTableWidgetItem(key))
                     self.usesList.setItem(row-1, col+1, QtWidgets.QTableWidgetItem(str(value[self.edtItemName.text().lower()])))
+            if self.usesList.rowCount() == 0:
+                self.searchItem.edtSearchItem.setText(self.edtItemName.text().lower())
+                self.searchItem.exec_()
         except Exception as E:
             QtWidgets.QMessageBox.warning(self, "ERRO", str(E))
 
 
     def Search(self):
+        #self.searchList.setRowCount(0)
         names = list(crafts.keys())
         model = QtGui.QStandardItemModel(len(names),1)
         model.setHorizontalHeaderLabels(["CRAFT"])
@@ -105,46 +114,74 @@ class Ui(QtWidgets.QMainWindow):
         filter_proxy_model.setSourceModel(model)
         filter_proxy_model.setFilterCaseSensitivity(QtCore.Qt.CaseInsensitive)
         filter_proxy_model.setFilterKeyColumn(0)
-        self.searchWindow.edtSearch.textChanged.connect(filter_proxy_model.setFilterRegExp)
-        self.searchWindow.searchList.setModel(filter_proxy_model)
+        self.searchCraft.edtSearch.textChanged.connect(filter_proxy_model.setFilterRegExp)
+        self.searchCraft.searchList.setModel(filter_proxy_model)
 
-        self.searchWindow.searchList.doubleClicked.connect(self.selecionado)
+        self.searchCraft.searchList.doubleClicked.connect(self.selecionado)
+
+    def SearchItem(self):
+        names = list(items.keys())
+        model = QtGui.QStandardItemModel(len(names),1)
+        model.setHorizontalHeaderLabels(["ITEM"])
+
+        for row, item in enumerate(items):
+            qitem = QtGui.QStandardItem(item)
+            model.setItem(row, 0, qitem)
+
+        filter_proxy_model = QtCore.QSortFilterProxyModel()
+        filter_proxy_model.setSourceModel(model)
+        filter_proxy_model.setFilterCaseSensitivity(QtCore.Qt.CaseInsensitive)
+        filter_proxy_model.setFilterKeyColumn(0)
+        self.searchItem.edtSearchItem.textChanged.connect(filter_proxy_model.setFilterRegExp)
+        self.searchItem.searchListItem.setModel(filter_proxy_model)
+
+        self.searchItem.searchListItem.doubleClicked.connect(self.selecionadoItem)
 
     def selecionado(self):
-        model = self.searchWindow.searchList.model()
-        item = model.data(self.searchWindow.searchList.currentIndex())
+        model = self.searchCraft.searchList.model()
+        item = model.data(self.searchCraft.searchList.currentIndex())
         self.edtCraftName.setText(item)
-        self.CreateBoost70()
-        self.searchWindow.close()
+        self.CreateCraft()
+        self.searchCraft.close()
+
+    def selecionadoItem(self):
+        model = self.searchItem.searchListItem.model()
+        item = model.data(self.searchItem.searchListItem.currentIndex())
+        self.edtItemName.setText(item)
+        self.SearchUse()
+        self.searchItem.close()
 
     def keyPressEvent(self, event):
-        foc = QtWidgets.QApplication.focusWidget().objectName()
-        if event.key() == QtCore.Qt.Key_F2:
-            if foc == 'edtCraftName':
-                self.searchWindow.exec_()#show()
+        try:
+            foc = QtWidgets.QApplication.focusWidget().objectName()
+            if event.key() == QtCore.Qt.Key_F2:
+                if foc == 'edtCraftName':
+                    self.searchCraft.exec_()#show()
+                elif foc == 'edtItemName':
+                    self.searchItem.exec_()
+
+        except:
+            pass
 
 
     def Calculate(self, craft, qty):
         if not crafts.get(craft):
             return 
-
         for item,itemqty in crafts[craft].items():
             try:
                 price = items[item]
             except:
                 price = 0
-            if result.get(item):
+            if self.result.get(item):
                 result[item]['qty'] += itemqty*qty
-                #result[item]['price'] = price
             else:
                 result[item] = {'qty': itemqty*qty, 'price': price}
 
             self.Calculate(item, itemqty*qty)
         return result
         
-    def CreateBoost70(self):
-        global result
-        result = {}
+    def CreateCraft(self):
+
         craft = self.edtCraftName.text().lower()
         
         qty = self.edtCraftQty.value()
@@ -152,9 +189,12 @@ class Ui(QtWidgets.QMainWindow):
             qty = 1
         else:
             qty= int(qty)
+            
         infos = self.Calculate(craft, qty)
+
         if not infos:
-            self.searchWindow.show()
+            self.searchCraft.edtSearch.setText(self.edtCraftName.text().lower())
+            self.searchCraft.show()
             return
         if infos == -1:
             return
@@ -179,9 +219,11 @@ class Ui(QtWidgets.QMainWindow):
             self.craftTable.setItem(row-1, col+1, QtWidgets.QTableWidgetItem(f"{v['qty']:.2f}"))
             self.craftTable.setItem(row-1, col+2, QtWidgets.QTableWidgetItem(f"{v['price']:.2f}"))            
             self.craftTable.setItem(row-1, col+3, QtWidgets.QTableWidgetItem(f"{v['qty']*v['price']:.2f}"))
+            self.craftTable.setItem(row-1, col+4, QtWidgets.QTableWidgetItem("0"))
             self.CalculaTotal()
             pass
         self.craftAnterior = craft
+
 
     def CalculaTotal(self):
         try:

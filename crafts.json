@@ -570,7 +570,7 @@
         "streak tail": 50,
         "black dye": 8,
         "mini vulcano": 10,
-        "ice block": 30,
+        "ice blocks": 30,
         "iron bar": 200
     },
     "charmander turret": {
@@ -2442,7 +2442,7 @@
         "fire stone": 6,
         "refined fashion point": 12
     },
-    "water pendant": {
+    "water pendant (addon)": {
         "beautiful scales": 3,
         "ruby": 50,
         "giant ruby": 5,
@@ -2700,7 +2700,8 @@
         "ironhard essence": 5,
         "psycraft essence": 5,
         "malefic essence": 5,
-        "raibolt essence  8 refined fashion points": 5
+        "raibolt essence":  5,
+        "refined fashion points": 8
     },
     "lycanroc male outfit": {
         "leather": 15,
